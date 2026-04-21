@@ -25,7 +25,7 @@ Many real-world factual queries contain **multiple constraints** that must all b
 For example, in the figure below, the target disease needs to satisfy four conditions at the same time. Traditional RAG methods often fail because they retrieve evidence based on local semantic similarity instead of exact structural matching.
 
 <p align="center">
-  <img src="images/intro.png" width="850">
+  <img src="images/intor.png" width="850">
 </p>
 
 <p align="center">
