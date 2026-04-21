@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04v09">
+      <data key="d0">Mali</data>
+    </node>
+    <node id="/m/06s_2">
+      <data key="d0">Sierra Leone</data>
+    </node>
+    <node id="/m/036b_">
+      <data key="d0">Guinea-Bissau</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/03bdv">
+      <data key="d0">Greenwich Mean Time Zone</data>
+    </node>
+    <edge source="/m/04v09" target="/m/03bdv">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/04v09" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06s_2" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06s_2" target="/m/03bdv">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/036b_" target="/m/03bdv">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/036b_" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

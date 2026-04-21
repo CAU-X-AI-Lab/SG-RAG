@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0214km">
+      <data key="d0">Solo</data>
+    </node>
+    <node id="/m/0g0x9c">
+      <data key="d0">Invincible</data>
+    </node>
+    <node id="/m/04ghz4m">
+      <data key="d0">Bad Lieutenant: Port of Call New Orleans</data>
+    </node>
+    <node id="/m/07q1v4">
+      <data key="d0">Mark Isham</data>
+    </node>
+    <node id="/m/05sy_5">
+      <data key="d0">Crash</data>
+    </node>
+    <node id="/m/0319l">
+      <data key="d0">Horn</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/08r4x3">
+      <data key="d0">Bobby</data>
+    </node>
+    <node id="/m/0k2cb">
+      <data key="d0">Dangerous Liaisons</data>
+    </node>
+    <node id="/m/04lhc4">
+      <data key="d0">Erin Brockovich</data>
+    </node>
+    <node id="/m/0320fn">
+      <data key="d0">Short Cuts</data>
+    </node>
+    <node id="/m/04jplwp">
+      <data key="d0">Nine</data>
+    </node>
+    <node id="/m/01vdm0">
+      <data key="d0">Electronic keyboard</data>
+    </node>
+    <node id="/m/011ycb">
+      <data key="d0">Quiz Show</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <node id="/m/016yxn">
+      <data key="d0">Reversal of Fortune</data>
+    </node>
+    <node id="/m/07z6xs">
+      <data key="d0">The Black Dahlia</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03vyw8">
+      <data key="d0">Mrs. Parker and the Vicious Circle</data>
+    </node>
+    <node id="/m/05q54f5">
+      <data key="d0">Fair Game</data>
+    </node>
+    <edge source="/m/0214km" target="/m/07q1v4">
+      <data key="d1">/music/artist/track_contributions./music/track_contribution/role</data>
+      <data key="d2">Artist's track contributions.</data>
+    </edge>
+    <edge source="/m/0g0x9c" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0g0x9c" target="/m/07q1v4">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/04ghz4m" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/04ghz4m" target="/m/07q1v4">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/011ycb">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/016yxn">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/03vyw8">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/05sy_5">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/08r4x3">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/07z6xs">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/0320fn">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/01vdm0">
+      <data key="d1">/music/artist/track_contributions./music/track_contribution/role</data>
+      <data key="d2">Artist's track contributions.</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/0319l">
+      <data key="d1">/music/artist/track_contributions./music/track_contribution/role</data>
+      <data key="d2">Artist's track contributions.</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/07q1v4" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/05sy_5" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/08r4x3" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0k2cb" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04lhc4" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0320fn" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04jplwp" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/011ycb" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/016yxn" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07z6xs" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03vyw8">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05q54f5">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

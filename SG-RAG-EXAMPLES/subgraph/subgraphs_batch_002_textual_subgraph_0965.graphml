@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07zhjj">
+      <data key="d0">How I Met Your Mother</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/02ct_k">
+      <data key="d0">David Hyde Pierce</data>
+    </node>
+    <node id="/m/01d0b1">
+      <data key="d0">Michael Jeter</data>
+    </node>
+    <node id="/m/05f4vxd">
+      <data key="d0">Glee</data>
+    </node>
+    <node id="/m/09qv3c">
+      <data key="d0">Primetime Emmy Award for Outstanding Supporting Actor - Comedy Series</data>
+    </node>
+    <node id="/m/01q_y0">
+      <data key="d0">Will &amp; Grace</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/015qqg">
+      <data key="d0">Julia</data>
+    </node>
+    <node id="/m/06qwh">
+      <data key="d0">Star Trek: The Original Series</data>
+    </node>
+    <node id="/m/0vjr">
+      <data key="d0">Ally McBeal</data>
+    </node>
+    <edge source="/m/07zhjj" target="/m/09qv3c">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/015qqg">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05f4vxd">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0vjr">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/06qwh">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02ct_k" target="/m/09qv3c">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/01d0b1" target="/m/09qv3c">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/05f4vxd" target="/m/09qv3c">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/09qv3c" target="/m/0vjr">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/09qv3c" target="/m/06qwh">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/09qv3c" target="/m/015qqg">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/09qv3c" target="/m/01q_y0">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+  </graph>
+</graphml>

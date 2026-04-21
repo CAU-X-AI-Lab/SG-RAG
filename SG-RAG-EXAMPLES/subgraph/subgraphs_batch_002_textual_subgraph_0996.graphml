@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06x77g">
+      <data key="d0">The Turning Point</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/01gvsn">
+      <data key="d0">The Way We Were</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/01g63y">
+      <data key="d0">Domestic partnership</data>
+    </node>
+    <node id="/m/0gq9h">
+      <data key="d0">Academy Award for Best Picture</data>
+    </node>
+    <node id="/m/0dxtg">
+      <data key="d0">Screenwriter</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/02hv44_">
+      <data key="d0">Playwright-GB</data>
+    </node>
+    <node id="/m/0cc56">
+      <data key="d0">Manhattan</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/012t1">
+      <data key="d0">Arthur Laurents</data>
+    </node>
+    <node id="/m/0k0rf">
+      <data key="d0">Rope</data>
+    </node>
+    <edge source="/m/06x77g" target="/m/012t1">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/06x77g" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0k0rf">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01gvsn">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01gvsn" target="/m/012t1">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/01g63y" target="/m/012t1">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/0gq9h" target="/m/012t1">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0dxtg" target="/m/012t1">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/02hv44_" target="/m/012t1">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/0cc56" target="/m/012t1">
+      <data key="d1">/people/deceased_person/place_of_death</data>
+      <data key="d2">Person's place of death</data>
+    </edge>
+    <edge source="/m/012t1" target="/m/0k0rf">
+      <data key="d1">/film/film/written_by</data>
+      <data key="d2">Film's written by</data>
+    </edge>
+  </graph>
+</graphml>

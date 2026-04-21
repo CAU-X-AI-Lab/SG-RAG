@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0cqh46">
+      <data key="d0">Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/01cmp9">
+      <data key="d0">Chicago</data>
+    </node>
+    <node id="/m/02ldv0">
+      <data key="d0">Gary Sinise</data>
+    </node>
+    <node id="/m/05z43v">
+      <data key="d0">The Gathering Storm-GB</data>
+    </node>
+    <node id="/m/09fc83">
+      <data key="d0">The Stand</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/06nr2h">
+      <data key="d0">The Life and Death of Peter Sellers</data>
+    </node>
+    <node id="/m/0gmblvq">
+      <data key="d0">Game Change</data>
+    </node>
+    <node id="/m/0pv54">
+      <data key="d0">Michael Collins</data>
+    </node>
+    <node id="/m/03cv_gy">
+      <data key="d0">John Adams</data>
+    </node>
+    <node id="/m/09y20">
+      <data key="d0">Alan Rickman</data>
+    </node>
+    <node id="/m/0bbm7r">
+      <data key="d0">Elizabeth I</data>
+    </node>
+    <node id="/m/0yyg4">
+      <data key="d0">Mississippi Burning</data>
+    </node>
+    <node id="/m/0g55tzk">
+      <data key="d0">17th Screen Actors Guild Awards</data>
+    </node>
+    <node id="/m/02py4c8">
+      <data key="d0">Angels in America</data>
+    </node>
+    <node id="/m/043mk4y">
+      <data key="d0">Recount</data>
+    </node>
+    <node id="/m/092_25">
+      <data key="d0">6th Screen Actors Guild Awards</data>
+    </node>
+    <edge source="/m/0cqh46" target="/m/0bbm7r">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/06nr2h">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/03cv_gy">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/09fc83">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/02py4c8">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/0gmblvq">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/043mk4y">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/05z43v">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/09y20">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/02ldv0">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/0g55tzk">
+      <data key="d1">/award/award_category/winners./award/award_honor/ceremony</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/0cqh46" target="/m/092_25">
+      <data key="d1">/award/award_category/winners./award/award_honor/ceremony</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05z43v">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bbm7r">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03cv_gy">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09fc83">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/043mk4y">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/06nr2h">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02py4c8">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gmblvq">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0yyg4">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0pv54">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01cmp9">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/03rk0">
+      <data key="d0">India</data>
+    </node>
+    <node id="/m/06bnz">
+      <data key="d0">Russia</data>
+    </node>
+    <node id="/m/02r8hh_">
+      <data key="d0">Persepolis</data>
+    </node>
+    <node id="/m/0hcr">
+      <data key="d0">Animation</data>
+    </node>
+    <node id="/m/05qhw">
+      <data key="d0">Poland</data>
+    </node>
+    <node id="/m/01znc_">
+      <data key="d0">Turkey</data>
+    </node>
+    <node id="/m/0b90_r">
+      <data key="d0">Mexico</data>
+    </node>
+    <node id="/m/04hqz">
+      <data key="d0">Lebanon</data>
+    </node>
+    <node id="/m/06f32">
+      <data key="d0">Taiwan</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/06c1y">
+      <data key="d0">Romania</data>
+    </node>
+    <edge source="/m/03rk0" target="/m/02r8hh_">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/02r8hh_">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/06f32">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/06c1y">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/04hqz">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/05qhw">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/0b90_r">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/0hcr">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02r8hh_" target="/m/01znc_">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/04hqz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06f32" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/06c1y">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

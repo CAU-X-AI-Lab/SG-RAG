@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0284b56">
+      <data key="d0">Before the Devil Knows You're Dead</data>
+    </node>
+    <node id="/m/0prh7">
+      <data key="d0">Hamlet</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/0c0yh4">
+      <data key="d0">Sunshine</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/02wgk1">
+      <data key="d0">Spider-Man 2</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/02ppm4q">
+      <data key="d0">BAFTA Award for Best Actress in a Supporting Role</data>
+    </node>
+    <node id="/m/0bdwft">
+      <data key="d0">Primetime Emmy Award for Outstanding Lead Actress - Miniseries or a Movie</data>
+    </node>
+    <node id="/m/02qgqt">
+      <data key="d0">Philip Seymour Hoffman</data>
+    </node>
+    <node id="/m/01g257">
+      <data key="d0">Marisa Tomei</data>
+    </node>
+    <node id="/m/07fq1y">
+      <data key="d0">Rosemary Harris</data>
+    </node>
+    <node id="/m/04xg2f">
+      <data key="d0">Being Julia</data>
+    </node>
+    <edge source="/m/0284b56" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0284b56" target="/m/07fq1y">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0prh7" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0prh7" target="/m/07fq1y">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02wgk1">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0c0yh4">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04xg2f">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01b195">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0c0yh4" target="/m/07fq1y">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/07fq1y">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/02wgk1" target="/m/07fq1y">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02ppm4q" target="/m/07fq1y">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bdwft" target="/m/07fq1y">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02qgqt" target="/m/07fq1y">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/01g257" target="/m/07fq1y">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/07fq1y" target="/m/04xg2f">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+  </graph>
+</graphml>

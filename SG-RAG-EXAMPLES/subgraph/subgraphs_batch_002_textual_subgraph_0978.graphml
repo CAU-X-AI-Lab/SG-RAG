@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0963mq">
+      <data key="d0">She Hate Me</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/01qbg5">
+      <data key="d0">Gia</data>
+    </node>
+    <node id="/m/09tqkv2">
+      <data key="d0">The Kids Are All Right</data>
+    </node>
+    <node id="/m/05t0_2v">
+      <data key="d0">Scott Pilgrim vs. the World</data>
+    </node>
+    <node id="/m/095zlp">
+      <data key="d0">The Hours</data>
+    </node>
+    <node id="/m/0286vp">
+      <data key="d0">I Shot Andy Warhol</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/04jjy">
+      <data key="d0">Lesbian</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/01z452">
+      <data key="d0">Being John Malkovich</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/01l2b3">
+      <data key="d0">Bend It Like Beckham</data>
+    </node>
+    <node id="/m/0b7l4x">
+      <data key="d0">Smokin' Aces</data>
+    </node>
+    <node id="/m/0kvgtf">
+      <data key="d0">Even Cowgirls Get the Blues</data>
+    </node>
+    <node id="/m/0294mx">
+      <data key="d0">Monster</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0gd92">
+      <data key="d0">Chasing Amy</data>
+    </node>
+    <node id="/m/02nczh">
+      <data key="d0">Boys Don't Cry</data>
+    </node>
+    <node id="/m/07qg8v">
+      <data key="d0">8 Women</data>
+    </node>
+    <node id="/m/0jyx6">
+      <data key="d0">Manhattan</data>
+    </node>
+    <edge source="/m/0963mq" target="/m/04jjy">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0963mq" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01qbg5" target="/m/04jjy">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01qbg5" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09tqkv2" target="/m/04jjy">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/09tqkv2" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/05t0_2v" target="/m/04jjy">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/095zlp" target="/m/04jjy">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/095zlp" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0286vp" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0286vp" target="/m/04jjy">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/02rqwhl" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/07qg8v">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/01z452">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/0gd92">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/01l2b3">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/0b7l4x">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/02nczh">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/0294mx">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/0kvgtf">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/04jjy" target="/m/0jyx6">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/0cmc26r" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01z452" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03m5y9p" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01l2b3" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0b7l4x" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01b195" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/07qg8v">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02nczh">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gd92">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+  </graph>
+</graphml>

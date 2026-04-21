@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07z1_q">
+      <data key="d0">Kathryn Joosten</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/02hrh1q">
+      <data key="d0">Actor-GB</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/02zsn">
+      <data key="d0">Female</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/05lb30">
+      <data key="d0">Ricardo Antonio Chavira</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/035gjq">
+      <data key="d0">Nicollette Sheridan</data>
+    </node>
+    <node id="/m/03ln8b">
+      <data key="d0">Desperate Housewives</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/01rs5p">
+      <data key="d0">Laurie Metcalf</data>
+    </node>
+    <edge source="/m/07z1_q" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/02hrh1q">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/035gjq">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/01rs5p">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/04ztj">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/03ln8b">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07z1_q" target="/m/05lb30">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02hrh1q">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/02hrh1q" target="/m/02hrh1q">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+  </graph>
+</graphml>

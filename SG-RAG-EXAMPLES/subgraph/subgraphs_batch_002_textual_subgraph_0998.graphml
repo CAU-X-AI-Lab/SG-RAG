@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/011ysn">
+      <data key="d0">The Thin Red Line</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/01x15dc">
+      <data key="d0">Mike Piersante</data>
+    </node>
+    <node id="/m/0m_v0">
+      <data key="d0">T-Bone Burnett</data>
+    </node>
+    <node id="/m/0gmgwnv">
+      <data key="d0">Lincoln</data>
+    </node>
+    <node id="/m/078sj4">
+      <data key="d0">Syriana</data>
+    </node>
+    <node id="/m/0jdhp">
+      <data key="d0">Tim Blake Nelson</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/0dq626">
+      <data key="d0">Holes</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/0gmgwnv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/011ysn">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/078sj4">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0dq626">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/011ysn" target="/m/0jdhp">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/01x15dc" target="/m/0jdhp">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0m_v0" target="/m/0jdhp">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0gmgwnv" target="/m/0jdhp">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0gmgwnv" target="/m/0gmgwnv">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/078sj4" target="/m/0jdhp">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0jdhp" target="/m/0dq626">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0bth54">
+      <data key="d0">Avatar</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/06nm1">
+      <data key="d0">Spanish Language</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/05qg6g">
+      <data key="d0">Zoe Saldana</data>
+    </node>
+    <node id="/m/015h31">
+      <data key="d0">Animator-GB</data>
+    </node>
+    <node id="/m/0dxtw">
+      <data key="d0">Special Effects</data>
+    </node>
+    <node id="/m/09zzb8">
+      <data key="d0">Makeup Artist-GB</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/02g3gw">
+      <data key="d0">Saturn Award for Best Writing</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <edge source="/m/0bth54" target="/m/05qg6g">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/09nqf">
+      <data key="d1">/film/film/estimated_budget./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Film's estimated budget.</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/06nm1">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/02g3gw">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/015h31">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/film_crew_role</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/09zzb8">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/film_crew_role</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+    <edge source="/m/0bth54" target="/m/0dxtw">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/film_crew_role</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/05qg6g">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06nm1">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+  </graph>
+</graphml>

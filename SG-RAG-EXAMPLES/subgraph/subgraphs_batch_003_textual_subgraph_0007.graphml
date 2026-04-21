@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/09qvms">
+      <data key="d0">12th Screen Actors Guild Awards</data>
+    </node>
+    <node id="/m/050gkf">
+      <data key="d0">Cinderella Man</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/05jzt3">
+      <data key="d0">Walk the Line</data>
+    </node>
+    <node id="/m/05sy_5">
+      <data key="d0">Crash</data>
+    </node>
+    <node id="/m/09p0ct">
+      <data key="d0">The Constant Gardener</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/01gc7">
+      <data key="d0">Braveheart</data>
+    </node>
+    <node id="/m/0d6d2">
+      <data key="d0">Paul Newman</data>
+    </node>
+    <node id="/m/035gjq">
+      <data key="d0">Nicollette Sheridan</data>
+    </node>
+    <node id="/m/092vkg">
+      <data key="d0">Capote</data>
+    </node>
+    <node id="/m/01rzqj">
+      <data key="d0">Kiefer Sutherland</data>
+    </node>
+    <node id="/m/0337vz">
+      <data key="d0">Larenz Tate</data>
+    </node>
+    <node id="/m/0zcbl">
+      <data key="d0">Paul Giamatti</data>
+    </node>
+    <edge source="/m/09qvms" target="/m/050gkf">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/092vkg">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/09p0ct">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/05sy_5">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/05jzt3">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/0337vz">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/0d6d2">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/01rzqj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/035gjq">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/09qvms" target="/m/0zcbl">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/050gkf" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/092vkg">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05sy_5">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09p0ct">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05jzt3">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/057__d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01gc7">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

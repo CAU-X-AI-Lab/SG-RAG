@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0cv3w">
+      <data key="d0">Las Vegas</data>
+    </node>
+    <node id="/m/07l4zhn">
+      <data key="d0">Get Low</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/0279c15">
+      <data key="d0">Chicago Film Critics Association Award for Best Actor</data>
+    </node>
+    <node id="/m/02lxrv">
+      <data key="d0">Ed Wood</data>
+    </node>
+    <node id="/m/0209xj">
+      <data key="d0">Lost in Translation</data>
+    </node>
+    <node id="/m/0k4p0">
+      <data key="d0">Tootsie</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/01gkp1">
+      <data key="d0">The Royal Tenenbaums</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/024lt6">
+      <data key="d0">Rushmore</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/0p_pd">
+      <data key="d0">Bill Murray</data>
+    </node>
+    <node id="/m/058kh7">
+      <data key="d0">She's Having a Baby</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/0gkz3nz">
+      <data key="d0">Moonrise Kingdom</data>
+    </node>
+    <node id="/m/0gyh2wm">
+      <data key="d0">Hyde Park on Hudson</data>
+    </node>
+    <node id="/m/02f2dn">
+      <data key="d0">Tilda Swinton</data>
+    </node>
+    <node id="/m/043t8t">
+      <data key="d0">The Life Aquatic with Steve Zissou</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/04kxsb">
+      <data key="d0">BAFTA Award for Best Actor in a Leading Role</data>
+    </node>
+    <edge source="/m/0cv3w" target="/m/0p_pd">
+      <data key="d1">/people/person/spouse_s./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/07l4zhn" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07l4zhn" target="/m/0p_pd">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0279c15" target="/m/0p_pd">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02lxrv" target="/m/0p_pd">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02lxrv" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0209xj" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0209xj" target="/m/0p_pd">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0k4p0" target="/m/0p_pd">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0k4p0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/04q827" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01gkp1" target="/m/0p_pd">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/01gkp1" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02rqwhl" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/024lt6" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/024lt6" target="/m/0p_pd">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0cmc26r" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/0gyh2wm">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/058kh7">
+      <data key="d1">/film/film/personal_appearances./film/personal_film_appearance/person</data>
+      <data key="d2">Person's personal appearances.</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/043t8t">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/0gkz3nz">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/02f2dn">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0p_pd" target="/m/04kxsb">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/058kh7" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03m5y9p" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0gkz3nz" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0gyh2wm" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/043t8t" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+  </graph>
+</graphml>

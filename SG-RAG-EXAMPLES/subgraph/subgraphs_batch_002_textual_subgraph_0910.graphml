@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0cfhfz">
+      <data key="d0">Nine Lives</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/06jzh">
+      <data key="d0">Robin Wright</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/0fthdk">
+      <data key="d0">Dakota Fanning</data>
+    </node>
+    <node id="/m/07lmxq">
+      <data key="d0">Miguel Sandoval</data>
+    </node>
+    <node id="/m/0306ds">
+      <data key="d0">Lisa Gay Hamilton</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/01f69m">
+      <data key="d0">Ragtime</data>
+    </node>
+    <node id="/m/0jqkh">
+      <data key="d0">Do the Right Thing</data>
+    </node>
+    <node id="/m/01gc7">
+      <data key="d0">Braveheart</data>
+    </node>
+    <node id="/m/0n_hp">
+      <data key="d0">Blow</data>
+    </node>
+    <node id="/m/0c3p7">
+      <data key="d0">Glenn Close</data>
+    </node>
+    <edge source="/m/0cfhfz" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0cfhfz" target="/m/07lmxq">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0n_hp">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0jqkh">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/057__d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01gc7">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01f69m">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/06jzh" target="/m/07lmxq">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0fthdk" target="/m/07lmxq">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07lmxq" target="/m/0n_hp">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/07lmxq" target="/m/0jqkh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/07lmxq" target="/m/0c3p7">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07lmxq" target="/m/0306ds">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+  </graph>
+</graphml>

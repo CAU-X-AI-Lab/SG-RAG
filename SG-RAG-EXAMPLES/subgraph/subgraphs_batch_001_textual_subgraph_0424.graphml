@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04bbv7">
+      <data key="d0">Johnny Yong Bosch</data>
+    </node>
+    <node id="/m/017dcd">
+      <data key="d0">Mighty Morphin Power Rangers</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/01htzx">
+      <data key="d0">Action</data>
+    </node>
+    <node id="/m/016wzw">
+      <data key="d0">Peru</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/05l8y">
+      <data key="d0">Oman</data>
+    </node>
+    <node id="/m/07f1x">
+      <data key="d0">Thailand</data>
+    </node>
+    <node id="/m/03k9fj">
+      <data key="d0">Adventure Film</data>
+    </node>
+    <node id="/m/027pfg">
+      <data key="d0">Big Fish</data>
+    </node>
+    <node id="/m/0f8l9c">
+      <data key="d0">France</data>
+    </node>
+    <edge source="/m/04bbv7" target="/m/017dcd">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/09c7w0">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/03k9fj">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/02h40lc">
+      <data key="d1">/tv/tv_program/languages</data>
+      <data key="d2">TV's languages</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/01htzx">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/06v8s0">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/027pfg">
+      <data key="d1">/film/film/country</data>
+      <data key="d2">The country related to film</data>
+    </edge>
+    <edge source="/m/016wzw" target="/m/027pfg">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/027pfg">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/05l8y" target="/m/027pfg">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/07f1x" target="/m/027pfg">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/03k9fj" target="/m/027pfg">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/027pfg" target="/m/0f8l9c">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+  </graph>
+</graphml>

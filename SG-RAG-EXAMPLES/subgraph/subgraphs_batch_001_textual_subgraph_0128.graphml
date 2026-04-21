@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0kbvb">
+      <data key="d0">2004 Summer Olympics</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/01q20">
+      <data key="d0">Constitutional monarchy</data>
+    </node>
+    <node id="/m/0kbws">
+      <data key="d0">2008 Summer Olympics</data>
+    </node>
+    <node id="/m/0ctw_b">
+      <data key="d0">New Zealand</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/020p1">
+      <data key="d0">Cook Islands</data>
+    </node>
+    <node id="/m/0fthl">
+      <data key="d0">Santo Domingo</data>
+    </node>
+    <edge source="/m/0kbvb" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0fthl">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/020p1">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/020p1">
+      <data key="d1">/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Location's gdp nominal.</data>
+    </edge>
+    <edge source="/m/06sks6" target="/m/020p1">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/01q20" target="/m/020p1">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0kbws" target="/m/020p1">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/0ctw_b" target="/m/020p1">
+      <data key="d1">/location/administrative_division/country</data>
+      <data key="d2">The country related to administrative division</data>
+    </edge>
+  </graph>
+</graphml>

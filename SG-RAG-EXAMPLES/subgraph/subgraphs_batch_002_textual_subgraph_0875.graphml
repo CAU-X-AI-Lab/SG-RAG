@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/081lh">
+      <data key="d0">Woody Allen</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/02py9yf">
+      <data key="d0">Chuck</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0gfzgl">
+      <data key="d0">Gossip Girl</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/01qn7n">
+      <data key="d0">The O.C.</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/05g8ky">
+      <data key="d0">Josh Schwartz</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <edge source="/m/081lh" target="/m/05g8ky">
+      <data key="d1">/influence/influence_node/influenced_by</data>
+      <data key="d2">Influence's influenced by</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gfzgl">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02py9yf">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01qn7n">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02py9yf" target="/m/05g8ky">
+      <data key="d1">/tv/tv_program/program_creator</data>
+      <data key="d2">TV's program creator</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/05g8ky">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/0gfzgl" target="/m/05g8ky">
+      <data key="d1">/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program</data>
+      <data key="d2">TV's tv programs.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/05g8ky">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/05g8ky">
+      <data key="d1">/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Entity's person extra</data>
+    </edge>
+    <edge source="/m/01qn7n" target="/m/05g8ky">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/program</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/05g8ky" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+  </graph>
+</graphml>

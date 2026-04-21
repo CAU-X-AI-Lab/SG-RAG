@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03q0r1">
+      <data key="d0">Cars</data>
+    </node>
+    <node id="/m/0j6b5">
+      <data key="d0">Spirited Away</data>
+    </node>
+    <node id="/m/0gqzz">
+      <data key="d0">Academy Award for  Best Animated Feature Film</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/0n8_m93">
+      <data key="d0">85th Academy Awards</data>
+    </node>
+    <node id="/m/03x7hd">
+      <data key="d0">Ratatouille</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/02rn00y">
+      <data key="d0">Up</data>
+    </node>
+    <node id="/m/02r8hh_">
+      <data key="d0">Persepolis</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/02r8hh_">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03x7hd">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rn00y">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/03q0r1" target="/m/0gqzz">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0j6b5" target="/m/0gqzz">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0gqzz" target="/m/03x7hd">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0gqzz" target="/m/02rn00y">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0gqzz" target="/m/02r8hh_">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0gqzz" target="/m/0n8_m93">
+      <data key="d1">/award/award_category/winners./award/award_honor/ceremony</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+  </graph>
+</graphml>

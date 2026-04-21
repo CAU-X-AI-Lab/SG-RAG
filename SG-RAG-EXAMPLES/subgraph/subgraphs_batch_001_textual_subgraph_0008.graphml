@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0fpgp26">
+      <data key="d0">Ice Age: Continental Drift</data>
+    </node>
+    <node id="/m/02vxq9m">
+      <data key="d0">Skyfall</data>
+    </node>
+    <node id="/m/0h3xztt">
+      <data key="d0">The Best Exotic Marigold Hotel</data>
+    </node>
+    <node id="/m/09889g">
+      <data key="d0">Michael Jackson</data>
+    </node>
+    <node id="/m/062zm5h">
+      <data key="d0">The Avengers</data>
+    </node>
+    <node id="/m/05l4yg">
+      <data key="d0">Mary McCormack</data>
+    </node>
+    <node id="/m/017gm7">
+      <data key="d0">The Lord of the Rings: The Two Towers</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/035yg">
+      <data key="d0">Grenada</data>
+    </node>
+    <node id="/m/07ssc">
+      <data key="d0">United Kingdom</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/02hsgn">
+      <data key="d0">Stacy Keach</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/0gyfp9c">
+      <data key="d0">The Sessions</data>
+    </node>
+    <node id="/m/02j71">
+      <data key="d0">Earth</data>
+    </node>
+    <node id="/m/05qg6g">
+      <data key="d0">Zoe Saldana</data>
+    </node>
+    <node id="/m/02vk52z">
+      <data key="d0">World Bank</data>
+    </node>
+    <node id="/m/0fpv_3_">
+      <data key="d0">Life of Pi</data>
+    </node>
+    <edge source="/m/0fpgp26" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/0fpgp26" target="/m/027rn">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02vxq9m" target="/m/027rn">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02vxq9m" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/0h3xztt" target="/m/027rn">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0h3xztt" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/09889g" target="/m/02h40lc">
+      <data key="d1">/people/person/languages</data>
+      <data key="d2">Person's languages</data>
+    </edge>
+    <edge source="/m/09889g" target="/m/027rn">
+      <data key="d1">/people/person/spouse_s./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/062zm5h" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/062zm5h" target="/m/027rn">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/05l4yg" target="/m/02h40lc">
+      <data key="d1">/education/field_of_study/students_majoring./education/education/student</data>
+      <data key="d2">Education's students majoring.</data>
+    </edge>
+    <edge source="/m/017gm7" target="/m/027rn">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/017gm7" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/027rn">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/035yg" target="/m/02h40lc">
+      <data key="d1">/language/human_language/countries_spoken_in</data>
+      <data key="d2">Language's countries spoken in</data>
+    </edge>
+    <edge source="/m/07ssc" target="/m/02h40lc">
+      <data key="d1">/language/human_language/countries_spoken_in</data>
+      <data key="d2">Language's countries spoken in</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/02vk52z">
+      <data key="d1">/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language</data>
+      <data key="d2">Entity's organization extra</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/0fpv_3_">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/05qg6g">
+      <data key="d1">/people/person/languages</data>
+      <data key="d2">Person's languages</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/0gyfp9c">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/02hsgn">
+      <data key="d1">/education/field_of_study/students_majoring./education/education/student</data>
+      <data key="d2">Education's students majoring.</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/027rn">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0gyfp9c">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/05qg6g">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0fpv_3_">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02vk52z">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02j71">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_parent</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+  </graph>
+</graphml>

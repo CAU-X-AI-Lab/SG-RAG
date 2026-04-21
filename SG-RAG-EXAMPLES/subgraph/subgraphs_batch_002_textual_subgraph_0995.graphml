@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/09m6kg">
+      <data key="d0">A Beautiful Mind</data>
+    </node>
+    <node id="/m/0djb3vw">
+      <data key="d0">Restless</data>
+    </node>
+    <node id="/m/05fgt1">
+      <data key="d0">Intolerable Cruelty</data>
+    </node>
+    <node id="/m/011yd2">
+      <data key="d0">Apollo 13</data>
+    </node>
+    <node id="/m/07jqjx">
+      <data key="d0">Oliver Twist</data>
+    </node>
+    <node id="/m/02vz6dn">
+      <data key="d0">Mr. Nobody</data>
+    </node>
+    <node id="/m/04rtpt">
+      <data key="d0">Imagine Entertainment</data>
+    </node>
+    <node id="/m/0cc5mcj">
+      <data key="d0">Cowboys &amp; Aliens</data>
+    </node>
+    <node id="/m/01h1b">
+      <data key="d0">Billy Crystal</data>
+    </node>
+    <node id="/m/0cz_ym">
+      <data key="d0">American Gangster</data>
+    </node>
+    <node id="/m/050gkf">
+      <data key="d0">Cinderella Man</data>
+    </node>
+    <node id="/m/017d93">
+      <data key="d0">8 Mile</data>
+    </node>
+    <node id="/m/04wvhz">
+      <data key="d0">Brian Grazer</data>
+    </node>
+    <node id="/m/016tw3">
+      <data key="d0">Universal Studios</data>
+    </node>
+    <node id="/m/02kk_c">
+      <data key="d0">From the Earth to the Moon</data>
+    </node>
+    <node id="/m/02qr69m">
+      <data key="d0">Changeling</data>
+    </node>
+    <node id="/m/0yyg4">
+      <data key="d0">Mississippi Burning</data>
+    </node>
+    <node id="/m/0dsx3f">
+      <data key="d0">Friday Night Lights</data>
+    </node>
+    <node id="/m/047vnkj">
+      <data key="d0">2012</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0333t">
+      <data key="d0">Full Metal Jacket</data>
+    </node>
+    <node id="/m/0f_nbyh">
+      <data key="d0">Producers Guild of America Award for Best Theatrical Motion Picture</data>
+    </node>
+    <node id="/m/042zrm">
+      <data key="d0">Friday Night Lights</data>
+    </node>
+    <node id="/m/025ts_z">
+      <data key="d0">24: Redemption</data>
+    </node>
+    <node id="/m/0g2lq">
+      <data key="d0">Ron Howard</data>
+    </node>
+    <edge source="/m/09m6kg" target="/m/04wvhz">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/09m6kg" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0djb3vw" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0djb3vw" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/05fgt1" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/05fgt1" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/011yd2" target="/m/04wvhz">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/011yd2" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07jqjx" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02vz6dn" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04rtpt" target="/m/04wvhz">
+      <data key="d1">/organization/organization_founder/organizations_founded</data>
+      <data key="d2">Organization's organizations founded</data>
+    </edge>
+    <edge source="/m/0cc5mcj" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0cc5mcj" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01h1b" target="/m/04wvhz">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0cz_ym" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0cz_ym" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/050gkf" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/050gkf" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/017d93" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/017d93" target="/m/04wvhz">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/02kk_c">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/program</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/047vnkj">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/025ts_z">
+      <data key="d1">/film/film/executive_produced_by</data>
+      <data key="d2">Film's executive produced by</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/042zrm">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/02qr69m">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/0dsx3f">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/program</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/016tw3">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/0f_nbyh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04wvhz" target="/m/0g2lq">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/02kk_c" target="/m/07s9rl0">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/02qr69m" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0yyg4" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0dsx3f" target="/m/07s9rl0">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/047vnkj" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/025ts_z">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/042zrm">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0333t">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/02jx1">
+      <data key="d0">England</data>
+    </node>
+    <node id="/m/04mzf8">
+      <data key="d0">Rebecca</data>
+    </node>
+    <node id="/m/04vh83">
+      <data key="d0">Richard III</data>
+    </node>
+    <node id="/m/01rnpy">
+      <data key="d0">Joan Plowright</data>
+    </node>
+    <node id="/m/0bvqq">
+      <data key="d0">Westminster Abbey</data>
+    </node>
+    <node id="/m/0168ls">
+      <data key="d0">Spartacus</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <node id="/m/0pd6l">
+      <data key="d0">Nicholas and Alexandra</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/01jwxx">
+      <data key="d0">Battle of Britain</data>
+    </node>
+    <node id="/m/0kt_4">
+      <data key="d0">Hamlet</data>
+    </node>
+    <node id="/m/0byfz">
+      <data key="d0">Laurence Olivier</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/04mzf8">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0pd6l">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01jwxx">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04vh83">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0kt_4">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0168ls">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01b195">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02jx1" target="/m/0byfz">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/04mzf8" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/04vh83" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/01rnpy" target="/m/0byfz">
+      <data key="d1">/people/person/spouse_s./people/marriage/spouse</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/0bvqq" target="/m/0byfz">
+      <data key="d1">/people/deceased_person/place_of_burial</data>
+      <data key="d2">Person's place of burial</data>
+    </edge>
+    <edge source="/m/0168ls" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0pd6l" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/01jwxx" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0kt_4" target="/m/0byfz">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/016zwt">
+      <data key="d0">Nepal</data>
+    </node>
+    <node id="/m/05sb1">
+      <data key="d0">Pakistan</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/04xn_">
+      <data key="d0">Myanmar</data>
+    </node>
+    <node id="/m/09glw">
+      <data key="d0">Himalayas</data>
+    </node>
+    <edge source="/m/016zwt" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/016zwt" target="/m/09glw">
+      <data key="d1">/location/location/partially_contains</data>
+      <data key="d2">Location's partially contains</data>
+    </edge>
+    <edge source="/m/05sb1" target="/m/09glw">
+      <data key="d1">/location/location/partially_contains</data>
+      <data key="d2">Location's partially contains</data>
+    </edge>
+    <edge source="/m/05sb1" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/04xn_">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/04xn_" target="/m/09glw">
+      <data key="d1">/location/location/partially_contains</data>
+      <data key="d2">Location's partially contains</data>
+    </edge>
+  </graph>
+</graphml>

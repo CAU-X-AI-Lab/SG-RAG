@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04lp8k">
+      <data key="d0">Julie Benz</data>
+    </node>
+    <node id="/m/01j5x6">
+      <data key="d0">Jonny Lee Miller</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/01yk13">
+      <data key="d0">John Lithgow</data>
+    </node>
+    <node id="/m/03z106">
+      <data key="d0">We Were Soldiers</data>
+    </node>
+    <node id="/m/048xyn">
+      <data key="d0">The Messenger: The Story of Joan of Arc</data>
+    </node>
+    <node id="/m/069ld1">
+      <data key="d0">Desmond Harrington</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/0fhzwl">
+      <data key="d0">Dexter</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <edge source="/m/04lp8k" target="/m/069ld1">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/01j5x6" target="/m/069ld1">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03z106">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/048xyn">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0fhzwl">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01b195">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01yk13" target="/m/069ld1">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/03z106" target="/m/069ld1">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/048xyn" target="/m/069ld1">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/069ld1" target="/m/0fhzwl">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/069ld1" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+  </graph>
+</graphml>

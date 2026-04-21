@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0fq27fp">
+      <data key="d0">Wuthering Heights</data>
+    </node>
+    <node id="/m/0gvs1kt">
+      <data key="d0">Extremely Loud and Incredibly Close</data>
+    </node>
+    <node id="/m/01ffx4">
+      <data key="d0">The Red Violin</data>
+    </node>
+    <node id="/m/0hv81">
+      <data key="d0">America America</data>
+    </node>
+    <node id="/m/0ftns">
+      <data key="d0">Valletta</data>
+    </node>
+    <node id="/m/0dlngsd">
+      <data key="d0">Sherlock Holmes: A Game of Shadows</data>
+    </node>
+    <node id="/m/0cnztc4">
+      <data key="d0">The Devil's Double</data>
+    </node>
+    <node id="/m/015g28">
+      <data key="d0">Band of Brothers</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/024lt6">
+      <data key="d0">Rushmore</data>
+    </node>
+    <node id="/m/0m63c">
+      <data key="d0">The Lion King</data>
+    </node>
+    <node id="/m/0bh8x1y">
+      <data key="d0">Coriolanus</data>
+    </node>
+    <node id="/m/0cmdwwg">
+      <data key="d0">50/50</data>
+    </node>
+    <node id="/m/02llzg">
+      <data key="d0">Central European Time Zone-US</data>
+    </node>
+    <node id="/m/080nwsb">
+      <data key="d0">Footloose</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/01rz1">
+      <data key="d0">Council of Europe</data>
+    </node>
+    <node id="/m/0ch26b_">
+      <data key="d0">Hugo</data>
+    </node>
+    <node id="/m/0ds3t5x">
+      <data key="d0">The Help</data>
+    </node>
+    <node id="/m/0bby9p5">
+      <data key="d0">Soul Surfer</data>
+    </node>
+    <node id="/m/0bmhvpr">
+      <data key="d0">The Descendants</data>
+    </node>
+    <node id="/m/0gg8z1f">
+      <data key="d0">Carnage</data>
+    </node>
+    <node id="/m/0879bpq">
+      <data key="d0">Arthur Christmas</data>
+    </node>
+    <node id="/m/047vnkj">
+      <data key="d0">2012</data>
+    </node>
+    <node id="/m/04v3q">
+      <data key="d0">Malta</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03yvf2">
+      <data key="d0">Fight Club</data>
+    </node>
+    <node id="/m/0c0nhgv">
+      <data key="d0">Moneyball</data>
+    </node>
+    <node id="/m/0b76d_m">
+      <data key="d0">Anonymous</data>
+    </node>
+    <edge source="/m/0fq27fp" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0fq27fp" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0gvs1kt" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0gvs1kt" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01ffx4" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/01ffx4" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0hv81" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0ftns" target="/m/04v3q">
+      <data key="d1">/location/country/capital</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0dlngsd" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0dlngsd" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0cnztc4" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0cnztc4" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/015g28" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02rqwhl" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/024lt6" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/024lt6" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0m63c" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0m63c" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0bh8x1y" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0bh8x1y" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0cmdwwg" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0cmdwwg" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02llzg" target="/m/04v3q">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/080nwsb" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/080nwsb" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/04v3q">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/01rz1" target="/m/04v3q">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/0ch26b_" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0ch26b_" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0ds3t5x" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0ds3t5x" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bby9p5" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bby9p5" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0bmhvpr" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bmhvpr" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0gg8z1f" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0gg8z1f" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0879bpq" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0879bpq" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/047vnkj" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/047vnkj" target="/m/04v3q">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/04v3q" target="/m/03yvf2">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/04v3q" target="/m/0c0nhgv">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/04v3q" target="/m/0b76d_m">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0c0nhgv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0b76d_m">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03yvf2">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+  </graph>
+</graphml>

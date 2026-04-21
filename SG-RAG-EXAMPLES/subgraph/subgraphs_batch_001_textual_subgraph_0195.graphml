@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/01nln">
+      <data key="d0">Cameroon</data>
+    </node>
+    <node id="/m/01d9r3">
+      <data key="d0">Presidential system</data>
+    </node>
+    <node id="/m/03548">
+      <data key="d0">Gabon</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/088xp">
+      <data key="d0">Democratic Republic of the Congo</data>
+    </node>
+    <node id="/m/0hzc9wc">
+      <data key="d0">Sovereign state</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/01rxw">
+      <data key="d0">Congo</data>
+    </node>
+    <edge source="/m/01nln" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/01nln" target="/m/01rxw">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/01d9r3" target="/m/01rxw">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/03548" target="/m/01rxw">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/03548" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/01rxw">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/088xp" target="/m/01rxw">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/088xp" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0hzc9wc" target="/m/01rxw">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_area_type</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/01rxw">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

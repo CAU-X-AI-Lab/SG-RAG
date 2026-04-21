@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/01c72t">
+      <data key="d0">Composer</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/058kh7">
+      <data key="d0">She's Having a Baby</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/0g22z">
+      <data key="d0">Wall Street</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/05842k">
+      <data key="d0">Percussion</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/03g90h">
+      <data key="d0">Babylon 5: The Gathering</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/0fp_v1x">
+      <data key="d0">Stewart Copeland</data>
+    </node>
+    <node id="/m/09bjv">
+      <data key="d0">Beirut</data>
+    </node>
+    <edge source="/m/01c72t" target="/m/0fp_v1x">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/058kh7">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0g22z">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03g90h">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/058kh7" target="/m/0fp_v1x">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/0g22z" target="/m/0fp_v1x">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/05842k" target="/m/0fp_v1x">
+      <data key="d1">/music/artist/track_contributions./music/track_contribution/role</data>
+      <data key="d2">Artist's track contributions.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/0fp_v1x">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/03g90h" target="/m/0fp_v1x">
+      <data key="d1">/film/film/music</data>
+      <data key="d2">Film's music</data>
+    </edge>
+    <edge source="/m/0fp_v1x" target="/m/09bjv">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+  </graph>
+</graphml>

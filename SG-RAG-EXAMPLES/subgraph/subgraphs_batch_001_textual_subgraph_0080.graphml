@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/03m9c8">
+      <data key="d0">The Shubert Organization</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/017gm7">
+      <data key="d0">The Lord of the Rings: The Two Towers</data>
+    </node>
+    <node id="/m/05hj_k">
+      <data key="d0">Harvey Weinstein</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/01m1_d">
+      <data key="d0">Westport</data>
+    </node>
+    <node id="/m/0ckd1">
+      <data key="d0">Executive Producer</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <node id="/m/0m313">
+      <data key="d0">Shakespeare in Love</data>
+    </node>
+    <edge source="/m/03m9c8" target="/m/05hj_k">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/017gm7">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/04ztj">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/017gm7" target="/m/05hj_k">
+      <data key="d1">/film/film/executive_produced_by</data>
+      <data key="d2">Film's executive produced by</data>
+    </edge>
+    <edge source="/m/05hj_k" target="/m/09nqf">
+      <data key="d1">/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Entity's person extra</data>
+    </edge>
+    <edge source="/m/05hj_k" target="/m/04ztj">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/05hj_k" target="/m/01m1_d">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/05hj_k" target="/m/0ckd1">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/05hj_k" target="/m/0m313">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/060c4">
+      <data key="d0">President</data>
+    </node>
+    <node id="/m/05jxkf">
+      <data key="d0">Public university</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/019sc">
+      <data key="d0">Black</data>
+    </node>
+    <node id="/m/02j62">
+      <data key="d0">Economics</data>
+    </node>
+    <node id="/m/06nm1">
+      <data key="d0">Spanish Language</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/036hv">
+      <data key="d0">Geology</data>
+    </node>
+    <node id="/m/05x_5">
+      <data key="d0">Purdue University</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/02ky346">
+      <data key="d0">Engineering-GB</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <edge source="/m/060c4" target="/m/05x_5">
+      <data key="d1">/organization/role/leaders./organization/leadership/organization</data>
+      <data key="d2">Organization's leaders.</data>
+    </edge>
+    <edge source="/m/060c4" target="/m/027rn">
+      <data key="d1">/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office</data>
+      <data key="d2">Government's officeholders.</data>
+    </edge>
+    <edge source="/m/05jxkf" target="/m/05x_5">
+      <data key="d1">/education/educational_institution/school_type</data>
+      <data key="d2">Education's school type</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06nm1">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/019sc" target="/m/05x_5">
+      <data key="d1">/education/educational_institution/colors</data>
+      <data key="d2">Education's colors</data>
+    </edge>
+    <edge source="/m/02j62" target="/m/05x_5">
+      <data key="d1">/education/educational_institution/students_graduates./education/education/major_field_of_study</data>
+      <data key="d2">Education's students graduates.</data>
+    </edge>
+    <edge source="/m/06nm1" target="/m/05x_5">
+      <data key="d1">/education/educational_institution/students_graduates./education/education/major_field_of_study</data>
+      <data key="d2">Education's students graduates.</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/05x_5">
+      <data key="d1">/education/university/domestic_tuition./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Education's domestic tuition.</data>
+    </edge>
+    <edge source="/m/036hv" target="/m/05x_5">
+      <data key="d1">/education/educational_institution/students_graduates./education/education/major_field_of_study</data>
+      <data key="d2">Education's students graduates.</data>
+    </edge>
+    <edge source="/m/05x_5" target="/m/05x_5">
+      <data key="d1">/education/educational_institution_campus/educational_institution</data>
+      <data key="d2">Education's educational institution</data>
+    </edge>
+    <edge source="/m/05x_5" target="/m/02ky346">
+      <data key="d1">/education/educational_institution/students_graduates./education/education/major_field_of_study</data>
+      <data key="d2">Education's students graduates.</data>
+    </edge>
+  </graph>
+</graphml>

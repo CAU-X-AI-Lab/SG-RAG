@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/030pr">
+      <data key="d0">Frank Capra</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/064q5v">
+      <data key="d0">Why We Fight</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/082gq">
+      <data key="d0">War film</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/02zsn">
+      <data key="d0">Female</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/0jtdp">
+      <data key="d0">Documentary</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/04qb6g">
+      <data key="d0">CBC Television</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/029j_">
+      <data key="d0">DVD</data>
+    </node>
+    <edge source="/m/030pr" target="/m/064q5v">
+      <data key="d1">/film/film/personal_appearances./film/personal_film_appearance/person</data>
+      <data key="d2">Person's personal appearances.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02h40lc">
+      <data key="d1">/film/actor/dubbing_performances./film/dubbing_performance/language</data>
+      <data key="d2">Film's dubbing performances.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/02h40lc">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/09c7w0">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/029j_">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/082gq">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/04qb6g">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/064q5v" target="/m/0jtdp">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+  </graph>
+</graphml>

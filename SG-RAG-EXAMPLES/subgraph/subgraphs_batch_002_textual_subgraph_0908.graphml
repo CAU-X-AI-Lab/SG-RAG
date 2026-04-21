@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/063b4k">
+      <data key="d0">Guillermo del Toro</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0cvkv5">
+      <data key="d0">Volver</data>
+    </node>
+    <node id="/m/04q24zv">
+      <data key="d0">Agora</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/06823p">
+      <data key="d0">Talk to Her</data>
+    </node>
+    <node id="/m/02rxbmt">
+      <data key="d0">Fernando Trueba</data>
+    </node>
+    <node id="/m/02vxn">
+      <data key="d0">Film</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/04nl83">
+      <data key="d0">The Sea Inside</data>
+    </node>
+    <node id="/m/0gq6s3">
+      <data key="d0">Goya Award for Best Original Screenplay</data>
+    </node>
+    <node id="/m/0gpx6">
+      <data key="d0">All About My Mother</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/0bs5vty">
+      <data key="d0">Midnight in Paris</data>
+    </node>
+    <node id="/m/0g5838s">
+      <data key="d0">The Impossible</data>
+    </node>
+    <node id="/m/02vr3gz">
+      <data key="d0">The Orphanage</data>
+    </node>
+    <edge source="/m/063b4k" target="/m/0gq6s3">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04nl83">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0g5838s">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gpx6">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q24zv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cvkv5">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02vr3gz">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0cvkv5" target="/m/0gq6s3">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/04q24zv" target="/m/0gq6s3">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/06823p" target="/m/0gq6s3">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/02rxbmt" target="/m/0gq6s3">
+      <data key="d1">/award/award_category/winners./award/award_honor/award_winner</data>
+      <data key="d2">Award's winners.</data>
+    </edge>
+    <edge source="/m/02vxn" target="/m/0gq6s3">
+      <data key="d1">/award/award_category/disciplines_or_subjects</data>
+      <data key="d2">Award's disciplines or subjects</data>
+    </edge>
+    <edge source="/m/04nl83" target="/m/0gq6s3">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0gq6s3" target="/m/02vr3gz">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0gq6s3" target="/m/0gpx6">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0gq6s3" target="/m/0g5838s">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+    <edge source="/m/0gq6s3" target="/m/0bs5vty">
+      <data key="d1">/award/award_category/nominees./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's nominees.</data>
+    </edge>
+  </graph>
+</graphml>

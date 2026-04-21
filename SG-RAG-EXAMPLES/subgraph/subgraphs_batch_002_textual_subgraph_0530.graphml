@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/02hrh1q">
+      <data key="d0">Actor-GB</data>
+    </node>
+    <node id="/m/0wh3">
+      <data key="d0">Ann Arbor</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/02zsn">
+      <data key="d0">Female</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/0232lm">
+      <data key="d0">Andrew W.K.</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/02_286">
+      <data key="d0">New York City</data>
+    </node>
+    <node id="/m/09jwl">
+      <data key="d0">Musician-GB</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02hrh1q">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0232lm">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/02hrh1q" target="/m/02hrh1q">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/02hrh1q" target="/m/0232lm">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/0wh3" target="/m/0232lm">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/0232lm">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/08mbj5d" target="/m/0232lm">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/0232lm" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/0232lm" target="/m/02_286">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/0232lm" target="/m/09jwl">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+  </graph>
+</graphml>

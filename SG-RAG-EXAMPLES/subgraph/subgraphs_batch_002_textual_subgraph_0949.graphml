@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/02q52q">
+      <data key="d0">The Wizard of Oz</data>
+    </node>
+    <node id="/m/03hjv97">
+      <data key="d0">The Merry Widow</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/025scjj">
+      <data key="d0">Julius Caesar</data>
+    </node>
+    <node id="/m/014kkm">
+      <data key="d0">The Bad and the Beautiful</data>
+    </node>
+    <node id="/m/03bxp5">
+      <data key="d0">Little Women</data>
+    </node>
+    <node id="/m/0p9rz">
+      <data key="d0">Romeo and Juliet</data>
+    </node>
+    <node id="/m/04gmp_z">
+      <data key="d0">William A. Horning</data>
+    </node>
+    <node id="/m/076lxv">
+      <data key="d0">Edwin B. Willis</data>
+    </node>
+    <node id="/m/0gcrg">
+      <data key="d0">Seven Brides for Seven Brothers</data>
+    </node>
+    <node id="/m/049xgc">
+      <data key="d0">The Aviator</data>
+    </node>
+    <node id="/m/051x52f">
+      <data key="d0">Emile Kuri</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <edge source="/m/02q52q" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02q52q" target="/m/076lxv">
+      <data key="d1">/film/film_set_designer/film_sets_designed</data>
+      <data key="d2">Film's film sets designed</data>
+    </edge>
+    <edge source="/m/03hjv97" target="/m/076lxv">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/crewmember</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+    <edge source="/m/03hjv97" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gcrg">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03bxp5">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/025scjj">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/014kkm">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01b195">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/049xgc">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/025scjj" target="/m/076lxv">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/014kkm" target="/m/076lxv">
+      <data key="d1">/film/film_set_designer/film_sets_designed</data>
+      <data key="d2">Film's film sets designed</data>
+    </edge>
+    <edge source="/m/03bxp5" target="/m/076lxv">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0p9rz" target="/m/076lxv">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04gmp_z" target="/m/076lxv">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/076lxv" target="/m/0gcrg">
+      <data key="d1">/film/film_set_designer/film_sets_designed</data>
+      <data key="d2">Film's film sets designed</data>
+    </edge>
+    <edge source="/m/076lxv" target="/m/051x52f">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+  </graph>
+</graphml>

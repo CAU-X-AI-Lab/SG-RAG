@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0j4b">
+      <data key="d0">Angola</data>
+    </node>
+    <node id="/m/0jgd">
+      <data key="d0">Argentina</data>
+    </node>
+    <node id="/m/06qd3">
+      <data key="d0">South Korea</data>
+    </node>
+    <node id="/m/0l6mp">
+      <data key="d0">1988 Summer Olympics</data>
+    </node>
+    <node id="/m/056vv">
+      <data key="d0">Montenegro</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/03krj">
+      <data key="d0">Handball</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/07fj_">
+      <data key="d0">Tunisia</data>
+    </node>
+    <node id="/m/06c1y">
+      <data key="d0">Romania</data>
+    </node>
+    <edge source="/m/0j4b" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0j4b" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/0jgd" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/0l6mp" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/056vv" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/056vv" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06sks6" target="/m/03krj">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/03krj" target="/m/06c1y">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/03krj" target="/m/07fj_">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/07fj_">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/06c1y">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

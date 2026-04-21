@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06bnz">
+      <data key="d0">Russia</data>
+    </node>
+    <node id="/m/077qn">
+      <data key="d0">Serbia</data>
+    </node>
+    <node id="/m/06qd3">
+      <data key="d0">South Korea</data>
+    </node>
+    <node id="/m/018ctl">
+      <data key="d0">2010 Winter Olympics</data>
+    </node>
+    <node id="/m/0345h">
+      <data key="d0">Germany</data>
+    </node>
+    <node id="/m/09wz9">
+      <data key="d0">Bobsleigh</data>
+    </node>
+    <node id="/m/0chghy">
+      <data key="d0">Australia</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/06c1y">
+      <data key="d0">Romania</data>
+    </node>
+    <edge source="/m/06bnz" target="/m/09wz9">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/077qn" target="/m/09wz9">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/09wz9">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/018ctl" target="/m/09wz9">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/0345h" target="/m/09wz9">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/09wz9" target="/m/06c1y">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/09wz9" target="/m/0chghy">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/06c1y">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

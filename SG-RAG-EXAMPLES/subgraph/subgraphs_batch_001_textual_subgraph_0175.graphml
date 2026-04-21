@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06bnz">
+      <data key="d0">Russia</data>
+    </node>
+    <node id="/m/01p1v">
+      <data key="d0">Chile</data>
+    </node>
+    <node id="/m/03rjj">
+      <data key="d0">Italy</data>
+    </node>
+    <node id="/m/02qysm0">
+      <data key="d0">Academy of Canadian Cinema and Television Award for Best Achievement in Sound Editing</data>
+    </node>
+    <node id="/m/06qd3">
+      <data key="d0">South Korea</data>
+    </node>
+    <node id="/m/0f8l9c">
+      <data key="d0">France</data>
+    </node>
+    <node id="/m/0ch6mp2">
+      <data key="d0">Sound Mixer</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <edge source="/m/06bnz" target="/m/0cmc26r">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/01p1v" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/01p1v" target="/m/0cmc26r">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/03rjj" target="/m/0cmc26r">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/02qysm0" target="/m/0cmc26r">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/0cmc26r">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0f8l9c" target="/m/0cmc26r">
+      <data key="d1">/film/film/country</data>
+      <data key="d2">The country related to film</data>
+    </edge>
+    <edge source="/m/0ch6mp2" target="/m/0cmc26r">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/film_crew_role</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+  </graph>
+</graphml>

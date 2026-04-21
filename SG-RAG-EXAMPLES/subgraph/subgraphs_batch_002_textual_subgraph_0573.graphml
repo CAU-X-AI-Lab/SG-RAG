@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/02hrh1q">
+      <data key="d0">Actor-GB</data>
+    </node>
+    <node id="/m/01d_h8">
+      <data key="d0">Film Producer-GB</data>
+    </node>
+    <node id="/m/029ghl">
+      <data key="d0">Bo Derek</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/02zsn">
+      <data key="d0">Female</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/0nbwf">
+      <data key="d0">Long Beach</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/07bdd_">
+      <data key="d0">Razzie Award for Worst Picture</data>
+    </node>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02hrh1q">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02h40lc">
+      <data key="d1">/film/actor/dubbing_performances./film/dubbing_performance/language</data>
+      <data key="d2">Film's dubbing performances.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/029ghl">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/01d_h8" target="/m/029ghl">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/029ghl" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/029ghl" target="/m/02zsn">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/029ghl" target="/m/07bdd_">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/029ghl" target="/m/0nbwf">
+      <data key="d1">/people/person/place_of_birth</data>
+      <data key="d2">Person's place of birth</data>
+    </edge>
+  </graph>
+</graphml>

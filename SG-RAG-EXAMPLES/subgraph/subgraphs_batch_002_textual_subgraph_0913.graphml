@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/01cmp9">
+      <data key="d0">Chicago</data>
+    </node>
+    <node id="/m/0c0yh4">
+      <data key="d0">Sunshine</data>
+    </node>
+    <node id="/m/04q24zv">
+      <data key="d0">Agora</data>
+    </node>
+    <node id="/m/09p0ct">
+      <data key="d0">The Constant Gardener</data>
+    </node>
+    <node id="/m/03_gx">
+      <data key="d0">Judaism-GB</data>
+    </node>
+    <node id="/m/038bh3">
+      <data key="d0">Runaway Jury</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/02zsn">
+      <data key="d0">Female</data>
+    </node>
+    <node id="/m/09gdm7q">
+      <data key="d0">The Whistleblower</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/01ln5z">
+      <data key="d0">The Mummy</data>
+    </node>
+    <node id="/m/01gc7">
+      <data key="d0">Braveheart</data>
+    </node>
+    <node id="/m/020y73">
+      <data key="d0">Enemy at the Gates</data>
+    </node>
+    <node id="/m/09hy79">
+      <data key="d0">The Lovely Bones</data>
+    </node>
+    <node id="/m/03qnvdl">
+      <data key="d0">The Bourne Legacy</data>
+    </node>
+    <node id="/m/014x77">
+      <data key="d0">Rachel Weisz</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/09hy79">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09gdm7q">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0c0yh4">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q24zv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/020y73">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/038bh3">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09p0ct">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/057__d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01gc7">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01cmp9">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0c0yh4" target="/m/014x77">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04q24zv" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/09p0ct" target="/m/014x77">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/03_gx" target="/m/014x77">
+      <data key="d1">/people/person/religion</data>
+      <data key="d2">Person's religion</data>
+    </edge>
+    <edge source="/m/038bh3" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02zsn" target="/m/014x77">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/09gdm7q" target="/m/014x77">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/01ln5z" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/020y73" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/09hy79" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/03qnvdl" target="/m/014x77">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+  </graph>
+</graphml>

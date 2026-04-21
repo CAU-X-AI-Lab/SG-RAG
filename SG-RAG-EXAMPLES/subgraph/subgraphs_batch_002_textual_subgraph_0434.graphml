@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/02hrh1q">
+      <data key="d0">Actor-GB</data>
+    </node>
+    <node id="/m/04j4tx">
+      <data key="d0">The Killing Fields</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/0338g8">
+      <data key="d0">Craig T. Nelson</data>
+    </node>
+    <node id="/m/0n1s0">
+      <data key="d0">Wag the Dog</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/02qm_f">
+      <data key="d0">The Incredibles</data>
+    </node>
+    <node id="/m/0421v9q">
+      <data key="d0">The Proposal</data>
+    </node>
+    <node id="/m/0dxtg">
+      <data key="d0">Screenwriter</data>
+    </node>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02hrh1q">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02h40lc">
+      <data key="d1">/film/actor/dubbing_performances./film/dubbing_performance/language</data>
+      <data key="d2">Film's dubbing performances.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0338g8">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/02hrh1q" target="/m/0338g8">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/02hrh1q" target="/m/02hrh1q">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/04j4tx" target="/m/0338g8">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0338g8" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/0338g8" target="/m/0n1s0">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0338g8" target="/m/02qm_f">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0338g8" target="/m/0421v9q">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0338g8" target="/m/0dxtg">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+  </graph>
+</graphml>

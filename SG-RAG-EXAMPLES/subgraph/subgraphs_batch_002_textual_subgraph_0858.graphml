@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04tng0">
+      <data key="d0">Exodus</data>
+    </node>
+    <node id="/m/04vq33">
+      <data key="d0">Joan of Arc</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/076psv">
+      <data key="d0">Walter M. Scott</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/05218gr">
+      <data key="d0">Joseph C. Wright</data>
+    </node>
+    <node id="/m/01wb95">
+      <data key="d0">The Greatest Story Ever Told</data>
+    </node>
+    <node id="/m/0cb77r">
+      <data key="d0">Thomas Little</data>
+    </node>
+    <node id="/m/0cq8qq">
+      <data key="d0">How Green Was My Valley</data>
+    </node>
+    <node id="/m/07ypt">
+      <data key="d0">Victoria</data>
+    </node>
+    <node id="/m/097zcz">
+      <data key="d0">A Streetcar Named Desire</data>
+    </node>
+    <node id="/m/0520r2x">
+      <data key="d0">Richard Day</data>
+    </node>
+    <node id="/m/0579tg2">
+      <data key="d0">Paul S. Fox</data>
+    </node>
+    <edge source="/m/04tng0" target="/m/0520r2x">
+      <data key="d1">/film/film/film_art_direction_by</data>
+      <data key="d2">Film's film art direction by</data>
+    </edge>
+    <edge source="/m/04tng0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/04vq33" target="/m/0520r2x">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04vq33" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/097zcz">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01wb95">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cq8qq">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/076psv" target="/m/0520r2x">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/05218gr" target="/m/0520r2x">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/01wb95" target="/m/0520r2x">
+      <data key="d1">/film/film/film_art_direction_by</data>
+      <data key="d2">Film's film art direction by</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/0520r2x">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0cq8qq" target="/m/0520r2x">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/07ypt" target="/m/0520r2x">
+      <data key="d1">/people/person/place_of_birth</data>
+      <data key="d2">Person's place of birth</data>
+    </edge>
+    <edge source="/m/097zcz" target="/m/0520r2x">
+      <data key="d1">/film/film/film_art_direction_by</data>
+      <data key="d2">Film's film art direction by</data>
+    </edge>
+    <edge source="/m/0520r2x" target="/m/0579tg2">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+  </graph>
+</graphml>

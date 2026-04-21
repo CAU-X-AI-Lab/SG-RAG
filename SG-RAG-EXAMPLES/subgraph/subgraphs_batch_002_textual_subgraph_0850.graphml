@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0flw86">
+      <data key="d0">Islam</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0km3f">
+      <data key="d0">Labrador Retriever</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/01gc7">
+      <data key="d0">Braveheart</data>
+    </node>
+    <node id="/m/0pd64">
+      <data key="d0">The French Connection</data>
+    </node>
+    <node id="/m/060__7">
+      <data key="d0">Snow Falling on Cedars</data>
+    </node>
+    <node id="/m/09cr8">
+      <data key="d0">Traffic</data>
+    </node>
+    <node id="/m/016z9n">
+      <data key="d0">Nixon</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/02x2jl_">
+      <data key="d0">State of Play</data>
+    </node>
+    <node id="/m/033srr">
+      <data key="d0">National Treasure</data>
+    </node>
+    <node id="/m/01cmp9">
+      <data key="d0">Chicago</data>
+    </node>
+    <node id="/m/0gys2jp">
+      <data key="d0">The Flowers of War</data>
+    </node>
+    <node id="/m/0gt14">
+      <data key="d0">Mr. Smith Goes to Washington</data>
+    </node>
+    <node id="/m/032sl_">
+      <data key="d0">Enemy of the State</data>
+    </node>
+    <node id="/m/051zy_b">
+      <data key="d0">A Few Good Men</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/0rh6k">
+      <data key="d0">Washington, D.C.</data>
+    </node>
+    <node id="/m/0b4lkx">
+      <data key="d0">All the President's Men</data>
+    </node>
+    <node id="/m/015whm">
+      <data key="d0">Being There</data>
+    </node>
+    <node id="/m/01q2nx">
+      <data key="d0">Deep Impact</data>
+    </node>
+    <node id="/m/01cm8w">
+      <data key="d0">The Rescuers</data>
+    </node>
+    <edge source="/m/0flw86" target="/m/0rh6k">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0rh6k">
+      <data key="d1">/base/biblioness/bibs_location/country</data>
+      <data key="d2">The country related to biblioness</data>
+    </edge>
+    <edge source="/m/0km3f" target="/m/0rh6k">
+      <data key="d1">/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed</data>
+      <data key="d2">Entity's city with dogs</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01gc7" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0pd64" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0pd64" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/060__7" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/060__7" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/09cr8" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09cr8" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/016z9n" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/016z9n" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/0rh6k">
+      <data key="d1">/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Location's gdp nominal.</data>
+    </edge>
+    <edge source="/m/057__d" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02x2jl_" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/02x2jl_" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/033srr" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/033srr" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/01cmp9" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0gys2jp" target="/m/0rh6k">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0gys2jp" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0gt14" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0gt14" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/032sl_" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/032sl_" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/051zy_b" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/051zy_b" target="/m/0rh6k">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01cm8w">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0b4lkx">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01q2nx">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/015whm">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0rh6k" target="/m/0b4lkx">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0rh6k" target="/m/01cm8w">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0rh6k" target="/m/015whm">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0rh6k" target="/m/0rh6k">
+      <data key="d1">/location/hud_county_place/place</data>
+      <data key="d2">Location's place</data>
+    </edge>
+    <edge source="/m/0rh6k" target="/m/01q2nx">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+  </graph>
+</graphml>

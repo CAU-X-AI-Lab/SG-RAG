@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/01cgz">
+      <data key="d0">Boxing</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/0fthl">
+      <data key="d0">Santo Domingo</data>
+    </node>
+    <node id="/m/029j_">
+      <data key="d0">DVD</data>
+    </node>
+    <node id="/m/06nm1">
+      <data key="d0">Spanish Language</data>
+    </node>
+    <node id="/m/0q9sg">
+      <data key="d0">Rocky IV</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/0140g4">
+      <data key="d0">Rocky V</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <node id="/m/08984j">
+      <data key="d0">Rocky Balboa</data>
+    </node>
+    <edge source="/m/01cgz" target="/m/08984j">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01cgz" target="/m/01cgz">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/01cgz" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06nm1">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0fthl">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/029j_" target="/m/08984j">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/06nm1" target="/m/08984j">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/0q9sg" target="/m/08984j">
+      <data key="d1">/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/09nqf" target="/m/08984j">
+      <data key="d1">/film/film/estimated_budget./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Film's estimated budget.</data>
+    </edge>
+    <edge source="/m/0140g4" target="/m/08984j">
+      <data key="d1">/film/film/prequel</data>
+      <data key="d2">Film's prequel</data>
+    </edge>
+  </graph>
+</graphml>

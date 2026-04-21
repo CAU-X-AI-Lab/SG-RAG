@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/0hv81">
+      <data key="d0">America America</data>
+    </node>
+    <node id="/m/0f2rq">
+      <data key="d0">Dallas</data>
+    </node>
+    <node id="/m/02vqhv0">
+      <data key="d0">A Christmas Carol</data>
+    </node>
+    <node id="/m/03qgjwc">
+      <data key="d0">Independent Spirit Award for Best Supporting Female</data>
+    </node>
+    <node id="/m/053y4h">
+      <data key="d0">Mary Kay Place</data>
+    </node>
+    <node id="/m/0cfhfz">
+      <data key="d0">Nine Lives</data>
+    </node>
+    <node id="/m/07jqjx">
+      <data key="d0">Oliver Twist</data>
+    </node>
+    <node id="/m/09qwmm">
+      <data key="d0">Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role</data>
+    </node>
+    <node id="/m/02z3r8t">
+      <data key="d0">New York, I Love You</data>
+    </node>
+    <node id="/m/02vz6dn">
+      <data key="d0">Mr. Nobody</data>
+    </node>
+    <node id="/m/02x2jl_">
+      <data key="d0">State of Play</data>
+    </node>
+    <node id="/m/03h_yy">
+      <data key="d0">The Singing Detective</data>
+    </node>
+    <node id="/m/0g83dv">
+      <data key="d0">Breaking and Entering</data>
+    </node>
+    <node id="/m/0dgq_kn">
+      <data key="d0">The Girl with the Dragon Tattoo</data>
+    </node>
+    <node id="/m/02_1rq">
+      <data key="d0">Santa Barbara</data>
+    </node>
+    <node id="/m/0yyg4">
+      <data key="d0">Mississippi Burning</data>
+    </node>
+    <node id="/m/06jzh">
+      <data key="d0">Robin Wright</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/02zfdp">
+      <data key="d0">Ian McShane</data>
+    </node>
+    <node id="/m/02v_r7d">
+      <data key="d0">Luther</data>
+    </node>
+    <node id="/m/0c0nhgv">
+      <data key="d0">Moneyball</data>
+    </node>
+    <edge source="/m/0bdjd" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0hv81" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0f2rq" target="/m/06jzh">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+    <edge source="/m/02vqhv0" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02vqhv0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03qgjwc" target="/m/06jzh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/053y4h" target="/m/06jzh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0cfhfz" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0cfhfz" target="/m/06jzh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07jqjx" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/09qwmm" target="/m/06jzh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02z3r8t" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02z3r8t" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02vz6dn" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02x2jl_" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02x2jl_" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03h_yy" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/03h_yy" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0g83dv" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0g83dv" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0dgq_kn" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0dgq_kn" target="/m/06jzh">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/02_1rq" target="/m/07s9rl0">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/02_1rq" target="/m/06jzh">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0yyg4" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/06jzh" target="/m/0c0nhgv">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/06jzh" target="/m/02zfdp">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0c0nhgv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02v_r7d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

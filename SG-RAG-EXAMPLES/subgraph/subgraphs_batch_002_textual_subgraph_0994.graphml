@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07jdr">
+      <data key="d0">Train</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/032xky">
+      <data key="d0">It</data>
+    </node>
+    <node id="/m/02__34">
+      <data key="d0">Legends of the Fall</data>
+    </node>
+    <node id="/m/02qkwl">
+      <data key="d0">I, Robot</data>
+    </node>
+    <node id="/m/02rv_dz">
+      <data key="d0">Juno</data>
+    </node>
+    <node id="/m/080h2">
+      <data key="d0">Vancouver</data>
+    </node>
+    <node id="/m/040fb">
+      <data key="d0">June</data>
+    </node>
+    <node id="/m/05r5w">
+      <data key="d0">Pamela Anderson</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/028kb">
+      <data key="d0">December</data>
+    </node>
+    <edge source="/m/07jdr" target="/m/080h2">
+      <data key="d1">/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation</data>
+      <data key="d2">Travel's how to get here.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02__34">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rv_dz">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/032xky">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02qkwl">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/032xky" target="/m/080h2">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/02__34" target="/m/080h2">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/02qkwl" target="/m/080h2">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/02rv_dz" target="/m/080h2">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/080h2" target="/m/028kb">
+      <data key="d1">/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month</data>
+      <data key="d2">Travel's climate.</data>
+    </edge>
+    <edge source="/m/080h2" target="/m/040fb">
+      <data key="d1">/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month</data>
+      <data key="d2">Travel's climate.</data>
+    </edge>
+    <edge source="/m/080h2" target="/m/05r5w">
+      <data key="d1">/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer</data>
+      <data key="d2">Entity's location</data>
+    </edge>
+  </graph>
+</graphml>

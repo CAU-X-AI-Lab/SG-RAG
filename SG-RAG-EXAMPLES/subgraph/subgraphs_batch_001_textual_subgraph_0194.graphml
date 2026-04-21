@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07tp2">
+      <data key="d0">Uganda</data>
+    </node>
+    <node id="/m/027jk">
+      <data key="d0">Djibouti</data>
+    </node>
+    <node id="/m/07dzf">
+      <data key="d0">Tanzania</data>
+    </node>
+    <node id="/m/0gsrz4">
+      <data key="d0">East Africa Time Zone-US</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/05rznz">
+      <data key="d0">South Sudan</data>
+    </node>
+    <edge source="/m/07tp2" target="/m/0gsrz4">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/07tp2" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027jk" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027jk" target="/m/0gsrz4">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/07dzf" target="/m/0gsrz4">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/07dzf" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0gsrz4" target="/m/05rznz">
+      <data key="d1">/location/location/time_zones</data>
+      <data key="d2">Location's time zones</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/05rznz">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

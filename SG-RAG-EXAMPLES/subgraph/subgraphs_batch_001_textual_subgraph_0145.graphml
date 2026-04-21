@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06bnz">
+      <data key="d0">Russia</data>
+    </node>
+    <node id="/m/0b90_r">
+      <data key="d0">Mexico</data>
+    </node>
+    <node id="/m/04w8f">
+      <data key="d0">Mongolia</data>
+    </node>
+    <node id="/m/0jhd">
+      <data key="d0">Azerbaijan</data>
+    </node>
+    <node id="/m/0163v">
+      <data key="d0">Belarus</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/0hzlz">
+      <data key="d0">South Africa</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/0jdk_">
+      <data key="d0">2000 Summer Olympics</data>
+    </node>
+    <edge source="/m/06bnz" target="/m/0hzlz">
+      <data key="d1">/military/military_combatant/military_conflicts./military/military_combatant_group/combatants</data>
+      <data key="d2">Military's military conflicts.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/0163v">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/0jhd">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/0b90_r">
+      <data key="d1">/military/military_combatant/military_conflicts./military/military_combatant_group/combatants</data>
+      <data key="d2">Military's military conflicts.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/04w8f">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/0jdk_">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/0jhd" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0163v" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0hzlz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/010h9y">
+      <data key="d0">Ogden</data>
+    </node>
+    <node id="/m/0bj25">
+      <data key="d0">All About Eve</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/03bdkd">
+      <data key="d0">Wilson</data>
+    </node>
+    <node id="/m/0cb77r">
+      <data key="d0">Thomas Little</data>
+    </node>
+    <node id="/m/05v1sb">
+      <data key="d0">Lyle R. Wheeler</data>
+    </node>
+    <node id="/m/0cq8qq">
+      <data key="d0">How Green Was My Valley</data>
+    </node>
+    <node id="/m/0bkq7">
+      <data key="d0">Gentleman's Agreement</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <node id="/m/0kbf1">
+      <data key="d0">The Song of Bernadette</data>
+    </node>
+    <node id="/m/051z6mv">
+      <data key="d0">William S. Darling</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/0cq8qq">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03bdkd">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0kbf1">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bkq7">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/010h9y" target="/m/0cb77r">
+      <data key="d1">/people/person/place_of_birth</data>
+      <data key="d2">Person's place of birth</data>
+    </edge>
+    <edge source="/m/0bj25" target="/m/0cb77r">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/03bdkd" target="/m/0cb77r">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/0kbf1">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/0cq8qq">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/0bkq7">
+      <data key="d1">/film/film_set_designer/film_sets_designed</data>
+      <data key="d2">Film's film sets designed</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/051z6mv">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/0cb77r" target="/m/05v1sb">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+  </graph>
+</graphml>

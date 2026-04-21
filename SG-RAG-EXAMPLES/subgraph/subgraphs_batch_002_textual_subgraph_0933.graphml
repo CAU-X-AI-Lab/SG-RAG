@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/084302">
+      <data key="d0">The Prestige</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/023cjg">
+      <data key="d0">The Lord of the Rings</data>
+    </node>
+    <node id="/m/0f2wj">
+      <data key="d0">Hollywood</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0m63c">
+      <data key="d0">The Lion King</data>
+    </node>
+    <node id="/m/06xpp7">
+      <data key="d0">Hollywood High School</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/01n7q">
+      <data key="d0">California</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/084302">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0m63c">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/023cjg">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/084302" target="/m/0f2wj">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/023cjg" target="/m/0f2wj">
+      <data key="d1">/film/film/featured_film_locations</data>
+      <data key="d2">Film's featured film locations</data>
+    </edge>
+    <edge source="/m/0f2wj" target="/m/0m63c">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/0f2wj" target="/m/09c7w0">
+      <data key="d1">/base/biblioness/bibs_location/country</data>
+      <data key="d2">The country related to biblioness</data>
+    </edge>
+    <edge source="/m/0f2wj" target="/m/01n7q">
+      <data key="d1">/base/biblioness/bibs_location/state</data>
+      <data key="d2">Entity's bibs location</data>
+    </edge>
+    <edge source="/m/0f2wj" target="/m/06xpp7">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+  </graph>
+</graphml>

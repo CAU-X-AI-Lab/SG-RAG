@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/03rk0">
+      <data key="d0">India</data>
+    </node>
+    <node id="/m/07t65">
+      <data key="d0">United Nations</data>
+    </node>
+    <node id="/m/049lr">
+      <data key="d0">Karnataka</data>
+    </node>
+    <node id="/m/0flw86">
+      <data key="d0">Islam</data>
+    </node>
+    <node id="/m/07vfy4">
+      <data key="d0">Water</data>
+    </node>
+    <node id="/m/016zwt">
+      <data key="d0">Nepal</data>
+    </node>
+    <node id="/m/07dzf">
+      <data key="d0">Tanzania</data>
+    </node>
+    <node id="/m/06tw8">
+      <data key="d0">Sudan</data>
+    </node>
+    <node id="/m/05sb1">
+      <data key="d0">Pakistan</data>
+    </node>
+    <node id="/m/0kbws">
+      <data key="d0">2008 Summer Olympics</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/04xn_">
+      <data key="d0">Myanmar</data>
+    </node>
+    <edge source="/m/03rk0" target="/m/04xn_">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/07dzf">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/016zwt">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/06tw8">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/05sb1">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/0flw86">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/049lr">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/07t65">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/03rk0" target="/m/07vfy4">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/016zwt" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/07dzf" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06tw8" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06tw8" target="/m/06tw8">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/05sb1" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/04xn_">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

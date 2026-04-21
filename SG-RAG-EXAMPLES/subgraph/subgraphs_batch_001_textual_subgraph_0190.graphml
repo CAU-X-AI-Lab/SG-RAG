@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/06bnz">
+      <data key="d0">Russia</data>
+    </node>
+    <node id="/m/07t_x">
+      <data key="d0">Uzbekistan</data>
+    </node>
+    <node id="/m/01c4pv">
+      <data key="d0">Turkmenistan</data>
+    </node>
+    <node id="/m/0flw86">
+      <data key="d0">Islam</data>
+    </node>
+    <node id="/m/0jt3tjf">
+      <data key="d0">Kyrgyzstan</data>
+    </node>
+    <node id="/m/0jdd">
+      <data key="d0">Afghanistan</data>
+    </node>
+    <node id="/m/0kbvv">
+      <data key="d0">2006 Winter Olympics</data>
+    </node>
+    <node id="/m/0swff">
+      <data key="d0">1994 Winter Olympics</data>
+    </node>
+    <node id="/m/06qd3">
+      <data key="d0">South Korea</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <edge source="/m/06bnz" target="/m/07t_x">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/06bnz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/0jt3tjf">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/01c4pv">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/06qd3">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/0jdd">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/0flw86">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/0kbvv">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/07t_x" target="/m/0swff">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/01c4pv" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0jt3tjf" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

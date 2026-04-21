@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/017dcd">
+      <data key="d0">Mighty Morphin Power Rangers</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0ftxc">
+      <data key="d0">Springfield</data>
+    </node>
+    <node id="/m/0np9r">
+      <data key="d0">Voice Actor</data>
+    </node>
+    <node id="/m/035gt8">
+      <data key="d0">Skidmore College</data>
+    </node>
+    <node id="/m/08mbj5d">
+      <data key="d0">Official Website</data>
+    </node>
+    <node id="/m/050ks">
+      <data key="d0">Maine</data>
+    </node>
+    <node id="/m/02krf9">
+      <data key="d0">Television Director</data>
+    </node>
+    <node id="/m/05t0zfv">
+      <data key="d0">Bleach: Fade to Black</data>
+    </node>
+    <node id="/m/0chghy">
+      <data key="d0">Australia</data>
+    </node>
+    <node id="/m/0dd6bf">
+      <data key="d0">Bleach: Memories of Nobody</data>
+    </node>
+    <edge source="/m/017dcd" target="/m/06v8s0">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/09c7w0">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/09c7w0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/05t0zfv">
+      <data key="d1">/film/film/dubbing_performances./film/dubbing_performance/actor</data>
+      <data key="d2">Film's dubbing performances.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0dd6bf">
+      <data key="d1">/film/film/dubbing_performances./film/dubbing_performance/actor</data>
+      <data key="d2">Film's dubbing performances.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/0np9r">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/08mbj5d">
+      <data key="d1">/common/topic/webpage./common/webpage/category</data>
+      <data key="d2">Common's webpage.</data>
+    </edge>
+    <edge source="/m/06v8s0" target="/m/02krf9">
+      <data key="d1">/people/person/profession</data>
+      <data key="d2">Person's profession</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/05t0zfv">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0dd6bf">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/050ks">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0chghy">
+      <data key="d1">/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to</data>
+      <data key="d2">Location's places exported to.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/035gt8">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0ftxc">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/060c4">
+      <data key="d0">President</data>
+    </node>
+    <node id="/m/07t65">
+      <data key="d0">United Nations</data>
+    </node>
+    <node id="/m/0kbvb">
+      <data key="d0">2004 Summer Olympics</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/0gkjy">
+      <data key="d0">African Union</data>
+    </node>
+    <node id="/m/02j71">
+      <data key="d0">Earth</data>
+    </node>
+    <node id="/m/02lq5w">
+      <data key="d0">Silver medal</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/088xp">
+      <data key="d0">Democratic Republic of the Congo</data>
+    </node>
+    <node id="/m/05rznz">
+      <data key="d0">South Sudan</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/04k4l">
+      <data key="d0">League of Nations</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <edge source="/m/060c4" target="/m/05rznz">
+      <data key="d1">/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office</data>
+      <data key="d2">Government's officeholders.</data>
+    </edge>
+    <edge source="/m/060c4" target="/m/027rn">
+      <data key="d1">/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office</data>
+      <data key="d2">Government's officeholders.</data>
+    </edge>
+    <edge source="/m/07t65" target="/m/05rznz">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/07t65" target="/m/027rn">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/0kbvb" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02j71">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_parent</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency</data>
+      <data key="d2">Location's gdp nominal per capita.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lq5w">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/04k4l">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/0gkjy" target="/m/05rznz">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/02j71" target="/m/05rznz">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_parent</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/05rznz">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/088xp" target="/m/05rznz">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/05rznz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

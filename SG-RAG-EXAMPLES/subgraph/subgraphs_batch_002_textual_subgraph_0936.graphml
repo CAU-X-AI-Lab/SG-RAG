@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04pk1f">
+      <data key="d0">Charlie and the Chocolate Factory</data>
+    </node>
+    <node id="/m/0g22z">
+      <data key="d0">Wall Street</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0fg04">
+      <data key="d0">Sleepy Hollow</data>
+    </node>
+    <node id="/m/0ds11z">
+      <data key="d0">Sweeney Todd: The Demon Barber of Fleet Street</data>
+    </node>
+    <node id="/m/01gc7">
+      <data key="d0">Braveheart</data>
+    </node>
+    <node id="/m/02lxrv">
+      <data key="d0">Ed Wood</data>
+    </node>
+    <node id="/m/02qggqc">
+      <data key="d0">Chris Lebenzon</data>
+    </node>
+    <node id="/m/0k611">
+      <data key="d0">Academy Award for Best Film Editing</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/027pfg">
+      <data key="d0">Big Fish</data>
+    </node>
+    <node id="/m/076zy_g">
+      <data key="d0">Unstoppable</data>
+    </node>
+    <node id="/m/018js4">
+      <data key="d0">Top Gun</data>
+    </node>
+    <node id="/m/032sl_">
+      <data key="d0">Enemy of the State</data>
+    </node>
+    <node id="/m/02_nsc">
+      <data key="d0">Days of Thunder</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0415ggl">
+      <data key="d0">Amelia</data>
+    </node>
+    <node id="/m/0pc62">
+      <data key="d0">Pearl Harbor</data>
+    </node>
+    <node id="/m/064ndc">
+      <data key="d0">Radio</data>
+    </node>
+    <edge source="/m/04pk1f" target="/m/02qggqc">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0g22z" target="/m/02qggqc">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/0g22z" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/02qggqc">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/0fg04" target="/m/02qggqc">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0ds11z" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0ds11z" target="/m/02qggqc">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/01gc7" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02lxrv" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02lxrv" target="/m/02qggqc">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/076zy_g">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/064ndc">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/02_nsc">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/027pfg">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/032sl_">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/0pc62">
+      <data key="d1">/film/film/edited_by</data>
+      <data key="d2">Film's edited by</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/0k611">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02qggqc" target="/m/018js4">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/057__d" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/027pfg" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/076zy_g" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/032sl_" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02_nsc" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/064ndc">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0pc62">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0415ggl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

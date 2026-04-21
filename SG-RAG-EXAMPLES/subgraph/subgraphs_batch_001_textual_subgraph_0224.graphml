@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04bbv7">
+      <data key="d0">Johnny Yong Bosch</data>
+    </node>
+    <node id="/m/017dcd">
+      <data key="d0">Mighty Morphin Power Rangers</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/01htzx">
+      <data key="d0">Action</data>
+    </node>
+    <node id="/m/0f1vrl">
+      <data key="d0">Haim Saban</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/01t_vv">
+      <data key="d0">Comedy-drama</data>
+    </node>
+    <node id="/m/09b3v">
+      <data key="d0">The Walt Disney Company</data>
+    </node>
+    <node id="/m/0735l">
+      <data key="d0">Streaming media</data>
+    </node>
+    <node id="/m/03k9fj">
+      <data key="d0">Adventure Film</data>
+    </node>
+    <node id="/m/0dxtw">
+      <data key="d0">Special Effects</data>
+    </node>
+    <node id="/m/02l7c8">
+      <data key="d0">Romance Film</data>
+    </node>
+    <node id="/m/0dq626">
+      <data key="d0">Holes</data>
+    </node>
+    <edge source="/m/04bbv7" target="/m/017dcd">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/09c7w0">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/03k9fj">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/02h40lc">
+      <data key="d1">/tv/tv_program/languages</data>
+      <data key="d2">TV's languages</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/01htzx">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/06v8s0">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/0f1vrl">
+      <data key="d1">/tv/tv_program/program_creator</data>
+      <data key="d2">TV's program creator</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0dq626">
+      <data key="d1">/film/film/country</data>
+      <data key="d2">The country related to film</data>
+    </edge>
+    <edge source="/m/02h40lc" target="/m/0dq626">
+      <data key="d1">/film/film/language</data>
+      <data key="d2">Film's language</data>
+    </edge>
+    <edge source="/m/01t_vv" target="/m/0dq626">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09b3v" target="/m/0dq626">
+      <data key="d1">/film/film/production_companies</data>
+      <data key="d2">Film's production companies</data>
+    </edge>
+    <edge source="/m/0735l" target="/m/0dq626">
+      <data key="d1">/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium</data>
+      <data key="d2">Film's distributors.</data>
+    </edge>
+    <edge source="/m/03k9fj" target="/m/0dq626">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0dxtw" target="/m/0dq626">
+      <data key="d1">/film/film/other_crew./film/film_crew_gig/film_crew_role</data>
+      <data key="d2">Film's other crew.</data>
+    </edge>
+    <edge source="/m/02l7c8" target="/m/0dq626">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+  </graph>
+</graphml>

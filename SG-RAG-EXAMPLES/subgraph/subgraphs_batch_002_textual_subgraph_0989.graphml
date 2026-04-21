@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/015g28">
+      <data key="d0">Band of Brothers</data>
+    </node>
+    <node id="/m/09m6kg">
+      <data key="d0">A Beautiful Mind</data>
+    </node>
+    <node id="/m/0209hj">
+      <data key="d0">Gandhi</data>
+    </node>
+    <node id="/m/0bhwhj">
+      <data key="d0">An Inconvenient Truth</data>
+    </node>
+    <node id="/m/04dsnp">
+      <data key="d0">Sicko</data>
+    </node>
+    <node id="/m/04f6df0">
+      <data key="d0">Into the Storm</data>
+    </node>
+    <node id="/m/0hv81">
+      <data key="d0">America America</data>
+    </node>
+    <node id="/m/0jtdp">
+      <data key="d0">Documentary</data>
+    </node>
+    <node id="/m/02kk_c">
+      <data key="d0">From the Earth to the Moon</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/01q7h2">
+      <data key="d0">The Firm</data>
+    </node>
+    <node id="/m/0413cff">
+      <data key="d0">Motherland</data>
+    </node>
+    <node id="/m/05jyb2">
+      <data key="d0">Backstairs at the White House</data>
+    </node>
+    <node id="/m/04z4j2">
+      <data key="d0">Ned Kelly</data>
+    </node>
+    <node id="/m/0dtw1x">
+      <data key="d0">The Aristocrats</data>
+    </node>
+    <node id="/m/072hx4">
+      <data key="d0">March of the Penguins</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/05jyb2">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02kk_c">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04f6df0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0413cff">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09m6kg">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01q7h2">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0209hj">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/015g28">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0hv81">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/057__d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04z4j2">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/09m6kg" target="/m/0jtdp">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0bhwhj" target="/m/0jtdp">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04dsnp" target="/m/0jtdp">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/04f6df0" target="/m/0jtdp">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/0413cff">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/02kk_c">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/05jyb2">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/01q7h2">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/072hx4">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0jtdp" target="/m/0dtw1x">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

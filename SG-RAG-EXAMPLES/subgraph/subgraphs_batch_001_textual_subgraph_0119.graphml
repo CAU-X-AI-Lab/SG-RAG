@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0j11">
+      <data key="d0">Aruba</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/0kbvb">
+      <data key="d0">2004 Summer Olympics</data>
+    </node>
+    <node id="/m/07c5l">
+      <data key="d0">Americas</data>
+    </node>
+    <node id="/m/049nq">
+      <data key="d0">Kingdom of the Netherlands</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/02bv9">
+      <data key="d0">Dutch Language</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/01q20">
+      <data key="d0">Constitutional monarchy</data>
+    </node>
+    <node id="/m/0kbws">
+      <data key="d0">2008 Summer Olympics</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/04k4l">
+      <data key="d0">League of Nations</data>
+    </node>
+    <node id="/m/0fthl">
+      <data key="d0">Santo Domingo</data>
+    </node>
+    <edge source="/m/0j11" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/07c5l">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/049nq">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_parent</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/01q20">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0j11" target="/m/02bv9">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/07c5l">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0kbvb">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0fthl">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/04k4l">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+  </graph>
+</graphml>

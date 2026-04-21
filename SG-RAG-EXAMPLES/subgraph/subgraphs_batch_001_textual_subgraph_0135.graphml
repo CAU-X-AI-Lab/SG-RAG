@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07ssc">
+      <data key="d0">United Kingdom</data>
+    </node>
+    <node id="/m/07tp2">
+      <data key="d0">Uganda</data>
+    </node>
+    <node id="/m/07jjt">
+      <data key="d0">Track cycling</data>
+    </node>
+    <node id="/m/03hr1p">
+      <data key="d0">Road cycling</data>
+    </node>
+    <node id="/m/02vx4">
+      <data key="d0">Football</data>
+    </node>
+    <node id="/m/06qd3">
+      <data key="d0">South Korea</data>
+    </node>
+    <node id="/m/01mk6">
+      <data key="d0">Czechoslovakia</data>
+    </node>
+    <node id="/m/0l98s">
+      <data key="d0">1972 Summer Olympics</data>
+    </node>
+    <node id="/m/04hqz">
+      <data key="d0">Lebanon</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/07fj_">
+      <data key="d0">Tunisia</data>
+    </node>
+    <node id="/m/01hp22">
+      <data key="d0">Artistic gymnastics</data>
+    </node>
+    <node id="/m/06c1y">
+      <data key="d0">Romania</data>
+    </node>
+    <edge source="/m/07ssc" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/07tp2" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/07tp2" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/07jjt" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/03hr1p" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/02vx4" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/06qd3" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/01mk6" target="/m/0l98s">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/01mk6" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0l98s" target="/m/07fj_">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/0l98s" target="/m/04hqz">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/0l98s" target="/m/06c1y">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/0l98s" target="/m/01hp22">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/04hqz" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/07fj_">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/06c1y">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+  </graph>
+</graphml>

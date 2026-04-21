@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04bbv7">
+      <data key="d0">Johnny Yong Bosch</data>
+    </node>
+    <node id="/m/017dcd">
+      <data key="d0">Mighty Morphin Power Rangers</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/02jm9c">
+      <data key="d0">Jeffrey Combs</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/01htzx">
+      <data key="d0">Action</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0f1vrl">
+      <data key="d0">Haim Saban</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/08nz99">
+      <data key="d0">Michael Piller</data>
+    </node>
+    <node id="/m/03k9fj">
+      <data key="d0">Adventure Film</data>
+    </node>
+    <node id="/m/06qw_">
+      <data key="d0">Star Trek: Deep Space Nine</data>
+    </node>
+    <node id="/m/06n90">
+      <data key="d0">Science Fiction</data>
+    </node>
+    <node id="/m/018dnt">
+      <data key="d0">Colm Meaney</data>
+    </node>
+    <edge source="/m/04bbv7" target="/m/017dcd">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/09c7w0">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/01htzx">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/03k9fj">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/0f1vrl">
+      <data key="d1">/tv/tv_program/program_creator</data>
+      <data key="d2">TV's program creator</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/02h40lc">
+      <data key="d1">/tv/tv_program/languages</data>
+      <data key="d2">TV's languages</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/06v8s0">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/02jm9c" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/01htzx" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/08nz99" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/program_creator</data>
+      <data key="d2">TV's program creator</data>
+    </edge>
+    <edge source="/m/03k9fj" target="/m/06qw_">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/06qw_" target="/m/06n90">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/06qw_" target="/m/018dnt">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/08bytj">
+      <data key="d0">Big Love</data>
+    </node>
+    <node id="/m/07024">
+      <data key="d0">Saving Private Ryan</data>
+    </node>
+    <node id="/m/0gvs1kt">
+      <data key="d0">Extremely Loud and Incredibly Close</data>
+    </node>
+    <node id="/m/0bs8s1p">
+      <data key="d0">We Need to Talk About Kevin</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/0bxtg">
+      <data key="d0">Tom Hanks</data>
+    </node>
+    <node id="/m/011yd2">
+      <data key="d0">Apollo 13</data>
+    </node>
+    <node id="/m/0kv9d3">
+      <data key="d0">The Painted Veil</data>
+    </node>
+    <node id="/m/02qjv1p">
+      <data key="d0">The Pacific</data>
+    </node>
+    <node id="/m/0gh65c5">
+      <data key="d0">Cloud Atlas</data>
+    </node>
+    <node id="/m/02yxbc">
+      <data key="d0">The Contender</data>
+    </node>
+    <node id="/m/015g28">
+      <data key="d0">Band of Brothers</data>
+    </node>
+    <node id="/m/0209hj">
+      <data key="d0">Gandhi</data>
+    </node>
+    <node id="/m/09p35z">
+      <data key="d0">Starter for 10</data>
+    </node>
+    <node id="/m/03cv_gy">
+      <data key="d0">John Adams</data>
+    </node>
+    <node id="/m/02ndy4">
+      <data key="d0">A League of Their Own</data>
+    </node>
+    <node id="/m/03fbb6">
+      <data key="d0">Giovanni Ribisi</data>
+    </node>
+    <node id="/m/01y9r2">
+      <data key="d0">Road to Perdition</data>
+    </node>
+    <node id="/m/0c3z0">
+      <data key="d0">Cast Away</data>
+    </node>
+    <node id="/m/02kk_c">
+      <data key="d0">From the Earth to the Moon</data>
+    </node>
+    <node id="/m/027qgy">
+      <data key="d0">My Big Fat Greek Wedding</data>
+    </node>
+    <node id="/m/01flv_">
+      <data key="d0">Catch Me If You Can</data>
+    </node>
+    <node id="/m/016ky6">
+      <data key="d0">Big</data>
+    </node>
+    <node id="/m/0322yj">
+      <data key="d0">The Terminal</data>
+    </node>
+    <node id="/m/0ckd1">
+      <data key="d0">Executive Producer</data>
+    </node>
+    <node id="/m/0c00zd0">
+      <data key="d0">Larry Crowne</data>
+    </node>
+    <node id="/m/09txzv">
+      <data key="d0">Where the Wild Things Are</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/05hj0n">
+      <data key="d0">Kathleen Quinlan</data>
+    </node>
+    <node id="/m/0gmblvq">
+      <data key="d0">Game Change</data>
+    </node>
+    <node id="/m/02wk7b">
+      <data key="d0">Secrets &amp; Lies</data>
+    </node>
+    <node id="/m/01xdxy">
+      <data key="d0">Toy Story 2</data>
+    </node>
+    <node id="/m/09q23x">
+      <data key="d0">Charlie Wilson's War</data>
+    </node>
+    <node id="/m/02d413">
+      <data key="d0">Philadelphia</data>
+    </node>
+    <edge source="/m/08bytj" target="/m/0bxtg">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/program</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/08bytj" target="/m/07s9rl0">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07024" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07024" target="/m/0bxtg">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0gvs1kt" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0gvs1kt" target="/m/0bxtg">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bs8s1p" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0bdjd" target="/m/0bxtg">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0c00zd0">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/03cv_gy">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0gmblvq">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/015g28">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/011yd2">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/01flv_">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/02d413">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/02qjv1p">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/01y9r2">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0322yj">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/09txzv">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/016ky6">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/09q23x">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/02kk_c">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/027qgy">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/02ndy4">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/09p35z">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0gh65c5">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0c3z0">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/01xdxy">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/05hj0n">
+      <data key="d1">/award/award_winner/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/0ckd1">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/0bxtg" target="/m/03fbb6">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award_nominee</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/011yd2" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0kv9d3" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02qjv1p" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0gh65c5" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02yxbc" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/015g28" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0209hj" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/09p35z" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03cv_gy" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02ndy4" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01y9r2" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0c3z0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/02kk_c" target="/m/07s9rl0">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/027qgy" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01flv_" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/016ky6" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0322yj" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0c00zd0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/09txzv" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02d413">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09q23x">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0gmblvq">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02wk7b">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

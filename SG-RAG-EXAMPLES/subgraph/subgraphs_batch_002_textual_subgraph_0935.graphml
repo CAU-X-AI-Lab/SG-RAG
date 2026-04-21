@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0prh7">
+      <data key="d0">Hamlet</data>
+    </node>
+    <node id="/m/0m9p3">
+      <data key="d0">A Bridge Too Far</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/034hzj">
+      <data key="d0">Cry Freedom</data>
+    </node>
+    <node id="/m/015g28">
+      <data key="d0">Band of Brothers</data>
+    </node>
+    <node id="/m/0209hj">
+      <data key="d0">Gandhi</data>
+    </node>
+    <node id="/m/01jdpf">
+      <data key="d0">Interview</data>
+    </node>
+    <node id="/m/0hv81">
+      <data key="d0">America America</data>
+    </node>
+    <node id="/m/016z5x">
+      <data key="d0">Chaplin</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/0978r">
+      <data key="d0">Cambridge</data>
+    </node>
+    <node id="/m/011yr9">
+      <data key="d0">Elizabeth</data>
+    </node>
+    <node id="/m/05j82v">
+      <data key="d0">Shadowlands</data>
+    </node>
+    <node id="/m/0kr5_">
+      <data key="d0">Richard Attenborough</data>
+    </node>
+    <node id="/m/0hx4y">
+      <data key="d0">Jurassic Park</data>
+    </node>
+    <edge source="/m/0prh7" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0prh7" target="/m/0kr5_">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/0m9p3" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0m9p3" target="/m/0kr5_">
+      <data key="d1">/film/director/film</data>
+      <data key="d2">Film's film</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/05j82v">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/034hzj">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/011yr9">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0209hj">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/016z5x">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/015g28">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0hv81">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/057__d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/034hzj" target="/m/0kr5_">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0209hj" target="/m/0kr5_">
+      <data key="d1">/film/director/film</data>
+      <data key="d2">Film's film</data>
+    </edge>
+    <edge source="/m/01jdpf" target="/m/0kr5_">
+      <data key="d1">/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance</data>
+      <data key="d2">Film's films.</data>
+    </edge>
+    <edge source="/m/016z5x" target="/m/0kr5_">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0978r" target="/m/0kr5_">
+      <data key="d1">/people/person/place_of_birth</data>
+      <data key="d2">Person's place of birth</data>
+    </edge>
+    <edge source="/m/011yr9" target="/m/0kr5_">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/05j82v" target="/m/0kr5_">
+      <data key="d1">/film/film/produced_by</data>
+      <data key="d2">Film's produced by</data>
+    </edge>
+    <edge source="/m/0kr5_" target="/m/0hx4y">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+  </graph>
+</graphml>

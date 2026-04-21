@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/02lpp7">
+      <data key="d0">Gold medal</data>
+    </node>
+    <node id="/m/03676">
+      <data key="d0">Guinea</data>
+    </node>
+    <node id="/m/03_8r">
+      <data key="d0">Judo</data>
+    </node>
+    <node id="/m/01hp22">
+      <data key="d0">Artistic gymnastics</data>
+    </node>
+    <node id="/m/047yc">
+      <data key="d0">Kuwait</data>
+    </node>
+    <node id="/m/07jbh">
+      <data key="d0">Table tennis</data>
+    </node>
+    <node id="/m/02lq67">
+      <data key="d0">Bronze medal</data>
+    </node>
+    <node id="/m/01cgz">
+      <data key="d0">Boxing</data>
+    </node>
+    <node id="/m/06v36">
+      <data key="d0">Swaziland</data>
+    </node>
+    <node id="/m/0bjv6">
+      <data key="d0">Republic of Macedonia</data>
+    </node>
+    <node id="/m/071t0">
+      <data key="d0">Shooting sport</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/02lq5w">
+      <data key="d0">Silver medal</data>
+    </node>
+    <node id="/m/04k4l">
+      <data key="d0">League of Nations</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <node id="/m/07_53">
+      <data key="d0">Volleyball</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/07dzf">
+      <data key="d0">Tanzania</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/0kbws">
+      <data key="d0">2008 Summer Olympics</data>
+    </node>
+    <node id="/m/07gyv">
+      <data key="d0">Taekwondo</data>
+    </node>
+    <edge source="/m/02lpp7" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/02lpp7" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/03676" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/03_8r" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/03_8r" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/01hp22" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/01hp22" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/047yc" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/07jbh" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/07jbh" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/02lq67" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/02lq67" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/01cgz" target="/m/01cgz">
+      <data key="d1">/film/film_subject/films</data>
+      <data key="d2">Film's films</data>
+    </edge>
+    <edge source="/m/01cgz" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/01cgz" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/06v36" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/0bjv6" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/071t0" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/071t0" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/027rn">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/02lq5w" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/02lq5w" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/04k4l" target="/m/027rn">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/0l6ny" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/07_53" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/07_53" target="/m/027rn">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/07gyv">
+      <data key="d1">/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country</data>
+      <data key="d2">The country related to olympic sport</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/07dzf" target="/m/0kbws">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/0kbws" target="/m/07gyv">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+  </graph>
+</graphml>

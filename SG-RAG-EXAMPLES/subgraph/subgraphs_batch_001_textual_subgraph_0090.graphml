@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0kbvb">
+      <data key="d0">2004 Summer Olympics</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/02lq5w">
+      <data key="d0">Silver medal</data>
+    </node>
+    <node id="/m/02lpp7">
+      <data key="d0">Gold medal</data>
+    </node>
+    <node id="/m/03tmr">
+      <data key="d0">Ice Hockey</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/06zgc">
+      <data key="d0">Speed skating</data>
+    </node>
+    <node id="/m/02lq67">
+      <data key="d0">Bronze medal</data>
+    </node>
+    <node id="/m/04k4l">
+      <data key="d0">League of Nations</data>
+    </node>
+    <node id="/m/0sx92">
+      <data key="d0">1984 Winter Olympics</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <edge source="/m/0kbvb" target="/m/027rn">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lq67">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lq5w">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lpp7">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/04k4l">
+      <data key="d1">/organization/organization_member/member_of./organization/organization_membership/organization</data>
+      <data key="d2">Organization's member of.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/0sx92">
+      <data key="d1">/olympics/olympic_games/participating_countries</data>
+      <data key="d2">Olympics's participating countries</data>
+    </edge>
+    <edge source="/m/02lq5w" target="/m/0sx92">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/02lpp7" target="/m/0sx92">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/03tmr" target="/m/0sx92">
+      <data key="d1">/user/jg/default_domain/olympic_games/sports</data>
+      <data key="d2">Sports' default domain</data>
+    </edge>
+    <edge source="/m/06zgc" target="/m/0sx92">
+      <data key="d1">/user/jg/default_domain/olympic_games/sports</data>
+      <data key="d2">Sports' default domain</data>
+    </edge>
+    <edge source="/m/02lq67" target="/m/0sx92">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+  </graph>
+</graphml>

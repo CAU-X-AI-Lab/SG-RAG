@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/09m6kg">
+      <data key="d0">A Beautiful Mind</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/0755wz">
+      <data key="d0">Tom Hollander</data>
+    </node>
+    <node id="/m/016gr2">
+      <data key="d0">Derek Jacobi</data>
+    </node>
+    <node id="/m/011ywj">
+      <data key="d0">Gosford Park</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/0h1nt">
+      <data key="d0">Sissy Spacek</data>
+    </node>
+    <node id="/m/02rqwhl">
+      <data key="d0">The Savages</data>
+    </node>
+    <node id="/m/017gl1">
+      <data key="d0">The Lord of the Rings: The Fellowship of the Ring</data>
+    </node>
+    <node id="/m/0clfdj">
+      <data key="d0">7th Critics' Choice Awards</data>
+    </node>
+    <node id="/m/01rwpj">
+      <data key="d0">Sexy Beast</data>
+    </node>
+    <node id="/m/0184dt">
+      <data key="d0">Christopher Nolan</data>
+    </node>
+    <node id="/m/011yxg">
+      <data key="d0">Moulin Rouge!</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/01rwpj">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/011yxg">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/011ywj">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/017gl1">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09m6kg">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02rqwhl">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/09m6kg" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0755wz" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/016gr2" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/011ywj" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0h1nt" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/017gl1" target="/m/0clfdj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0clfdj" target="/m/01rwpj">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0clfdj" target="/m/011yxg">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0clfdj" target="/m/0184dt">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+  </graph>
+</graphml>

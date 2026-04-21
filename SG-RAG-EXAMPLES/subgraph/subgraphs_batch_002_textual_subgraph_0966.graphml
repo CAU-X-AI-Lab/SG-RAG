@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0hr3c8y">
+      <data key="d0">18th Screen Actors Guild Awards</data>
+    </node>
+    <node id="/m/031296">
+      <data key="d0">Julie Bowen</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0524b41">
+      <data key="d0">Game of Thrones</data>
+    </node>
+    <node id="/m/080dwhx">
+      <data key="d0">Boardwalk Empire</data>
+    </node>
+    <node id="/m/02lfns">
+      <data key="d0">Dominic Chianese</data>
+    </node>
+    <node id="/m/0bdjd">
+      <data key="d0">Forrest Gump</data>
+    </node>
+    <node id="/m/0h1nt">
+      <data key="d0">Sissy Spacek</data>
+    </node>
+    <node id="/m/0ds3t5x">
+      <data key="d0">The Help</data>
+    </node>
+    <node id="/m/0b44shh">
+      <data key="d0">Beginners</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/01b195">
+      <data key="d0">The Rainmaker</data>
+    </node>
+    <edge source="/m/0hr3c8y" target="/m/0524b41">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/0ds3t5x">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/080dwhx">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/0b44shh">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/honored_for</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/02lfns">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/0h1nt">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/0hr3c8y" target="/m/031296">
+      <data key="d1">/award/award_ceremony/awards_presented./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards presented.</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0b44shh">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0524b41">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0ds3t5x">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/080dwhx">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/01b195">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0bdjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

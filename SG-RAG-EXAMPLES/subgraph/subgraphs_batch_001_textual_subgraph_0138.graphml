@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/01tjt2">
+      <data key="d0">Western Cape</data>
+    </node>
+    <node id="/m/0j4b">
+      <data key="d0">Angola</data>
+    </node>
+    <node id="/m/034m8">
+      <data key="d0">Guyana</data>
+    </node>
+    <node id="/m/04n6k">
+      <data key="d0">Library of Congress Classification</data>
+    </node>
+    <node id="/m/01yj2">
+      <data key="d0">Cape Town</data>
+    </node>
+    <node id="/m/02wmy">
+      <data key="d0">Falkland Islands</data>
+    </node>
+    <node id="/m/06s_2">
+      <data key="d0">Sierra Leone</data>
+    </node>
+    <node id="/m/05c74">
+      <data key="d0">Nicaragua</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/0j3b">
+      <data key="d0">Atlantic Ocean</data>
+    </node>
+    <node id="/m/02613">
+      <data key="d0">Caribbean Sea</data>
+    </node>
+    <edge source="/m/01tjt2" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/0j4b" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0j4b" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/034m8" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/034m8" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/04n6k" target="/m/0j3b">
+      <data key="d1">/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy</data>
+      <data key="d2">User's random</data>
+    </edge>
+    <edge source="/m/01yj2" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/02wmy" target="/m/0j3b">
+      <data key="d1">/location/location/contains</data>
+      <data key="d2">Location's contains</data>
+    </edge>
+    <edge source="/m/06s_2" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06s_2" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/05c74" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/05c74" target="/m/0j3b">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+    <edge source="/m/0j3b" target="/m/02613">
+      <data key="d1">/location/location/adjoin_s./location/adjoining_relationship/adjoins</data>
+      <data key="d2">Location's adjoin s.</data>
+    </edge>
+  </graph>
+</graphml>

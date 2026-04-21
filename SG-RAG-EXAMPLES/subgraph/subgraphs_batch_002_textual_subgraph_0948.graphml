@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/03shpq">
+      <data key="d0">The Manchurian Candidate</data>
+    </node>
+    <node id="/m/01g63y">
+      <data key="d0">Domestic partnership</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/07jxpf">
+      <data key="d0">Jarhead</data>
+    </node>
+    <node id="/m/0_816">
+      <data key="d0">Bugsy</data>
+    </node>
+    <node id="/m/0bcp9b">
+      <data key="d0">Sophie's Choice</data>
+    </node>
+    <node id="/m/015g28">
+      <data key="d0">Band of Brothers</data>
+    </node>
+    <node id="/m/02w0dc0">
+      <data key="d0">Albert Wolsky</data>
+    </node>
+    <node id="/m/057__d">
+      <data key="d0">The Legend of Bagger Vance</data>
+    </node>
+    <node id="/m/02vz6dn">
+      <data key="d0">Mr. Nobody</data>
+    </node>
+    <node id="/m/01r97z">
+      <data key="d0">Striptease</data>
+    </node>
+    <node id="/m/05tgks">
+      <data key="d0">Maid in Manhattan</data>
+    </node>
+    <node id="/m/01y9r2">
+      <data key="d0">Road to Perdition</data>
+    </node>
+    <node id="/m/0hv1t">
+      <data key="d0">All That Jazz</data>
+    </node>
+    <node id="/m/05zppz">
+      <data key="d0">Male</data>
+    </node>
+    <node id="/m/0c00zd0">
+      <data key="d0">Larry Crowne</data>
+    </node>
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/0333t">
+      <data key="d0">Full Metal Jacket</data>
+    </node>
+    <node id="/m/02v_r7d">
+      <data key="d0">Luther</data>
+    </node>
+    <node id="/m/09q23x">
+      <data key="d0">Charlie Wilson's War</data>
+    </node>
+    <node id="/m/03fts">
+      <data key="d0">Galaxy Quest</data>
+    </node>
+    <edge source="/m/03shpq" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/03shpq" target="/m/02w0dc0">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/01g63y" target="/m/02w0dc0">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/02w0dc0">
+      <data key="d1">/people/person/nationality</data>
+      <data key="d2">Person's nationality</data>
+    </edge>
+    <edge source="/m/07jxpf" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07jxpf" target="/m/02w0dc0">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/0_816" target="/m/02w0dc0">
+      <data key="d1">/award/award_winning_work/awards_won./award/award_honor/award_winner</data>
+      <data key="d2">Award's awards won.</data>
+    </edge>
+    <edge source="/m/0_816" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0bcp9b" target="/m/02w0dc0">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/0bcp9b" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/015g28" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/01r97z">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/09q23x">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/05tgks">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/0c00zd0">
+      <data key="d1">/film/film/costume_design_by</data>
+      <data key="d2">Film's costume design by</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/0hv1t">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/01y9r2">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/05zppz">
+      <data key="d1">/people/person/gender</data>
+      <data key="d2">Person's gender</data>
+    </edge>
+    <edge source="/m/02w0dc0" target="/m/03fts">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/057__d" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02vz6dn" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01r97z" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/05tgks" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/01y9r2" target="/m/07s9rl0">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/0hv1t" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/0c00zd0" target="/m/07s9rl0">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/09q23x">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0333t">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/02v_r7d">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/0j4b">
+      <data key="d0">Angola</data>
+    </node>
+    <node id="/m/0c8wxp">
+      <data key="d0">Catholicism</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/07z5n">
+      <data key="d0">Vanuatu</data>
+    </node>
+    <node id="/m/0165v">
+      <data key="d0">Bolivia</data>
+    </node>
+    <node id="/m/06c1y">
+      <data key="d0">Romania</data>
+    </node>
+    <edge source="/m/0j4b" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/0j4b" target="/m/0c8wxp">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/0c8wxp" target="/m/06c1y">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/0c8wxp" target="/m/0165v">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/0c8wxp" target="/m/07z5n">
+      <data key="d1">/location/statistical_region/religions./location/religion_percentage/religion</data>
+      <data key="d2">Location's religions.</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/07z5n">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/0165v">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/06cx9" target="/m/06c1y">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/07z5n" target="/m/07z5n">
+      <data key="d1">/location/administrative_division/country</data>
+      <data key="d2">The country related to administrative division</data>
+    </edge>
+  </graph>
+</graphml>

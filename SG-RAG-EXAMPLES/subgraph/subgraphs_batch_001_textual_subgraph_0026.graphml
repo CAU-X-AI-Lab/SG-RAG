@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/04yj5z">
+      <data key="d0">John Leguizamo</data>
+    </node>
+    <node id="/m/02j71">
+      <data key="d0">Earth</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/06nm1">
+      <data key="d0">Spanish Language</data>
+    </node>
+    <node id="/m/09nqf">
+      <data key="d0">United States Dollar</data>
+    </node>
+    <node id="/m/0fpgp26">
+      <data key="d0">Ice Age: Continental Drift</data>
+    </node>
+    <node id="/m/02_286">
+      <data key="d0">New York City</data>
+    </node>
+    <node id="/m/09sb52">
+      <data key="d0">Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/03ckwzc">
+      <data key="d0">Miracle at St. Anna</data>
+    </node>
+    <node id="/m/011yxg">
+      <data key="d0">Moulin Rouge!</data>
+    </node>
+    <edge source="/m/027rn" target="/m/04ztj">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0fpgp26">
+      <data key="d1">/film/film/release_date_s./film/film_regional_release_date/film_release_region</data>
+      <data key="d2">Film's release date s.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06nm1">
+      <data key="d1">/location/country/official_language</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02j71">
+      <data key="d1">/base/aareas/schema/administrative_area/administrative_parent</data>
+      <data key="d2">Entity's schema</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/09nqf">
+      <data key="d1">/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency</data>
+      <data key="d2">Location's gdp real.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/0fpgp26">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/04ztj">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/06nm1">
+      <data key="d1">/people/person/languages</data>
+      <data key="d2">Person's languages</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/09sb52">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/award</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/011yxg">
+      <data key="d1">/award/award_nominee/award_nominations./award/award_nomination/nominated_for</data>
+      <data key="d2">Award's award nominations.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/03ckwzc">
+      <data key="d1">/film/actor/film./film/performance/film</data>
+      <data key="d2">Film's film.</data>
+    </edge>
+    <edge source="/m/04yj5z" target="/m/02_286">
+      <data key="d1">/people/person/places_lived./people/place_lived/location</data>
+      <data key="d2">Person's places lived.</data>
+    </edge>
+  </graph>
+</graphml>

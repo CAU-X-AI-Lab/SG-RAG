@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/07s9rl0">
+      <data key="d0">Drama</data>
+    </node>
+    <node id="/m/03m5y9p">
+      <data key="d0">W.</data>
+    </node>
+    <node id="/m/04q827">
+      <data key="d0">Million Dollar Baby</data>
+    </node>
+    <node id="/m/03hp2y1">
+      <data key="d0">The Soloist</data>
+    </node>
+    <node id="/m/01vvy">
+      <data key="d0">Claude Debussy</data>
+    </node>
+    <node id="/m/0267wwv">
+      <data key="d0">Jesus Christ Superstar</data>
+    </node>
+    <node id="/m/01gg59">
+      <data key="d0">A. R. Rahman</data>
+    </node>
+    <node id="/m/0cmc26r">
+      <data key="d0">A Dangerous Method</data>
+    </node>
+    <node id="/m/042y1c">
+      <data key="d0">Amadeus</data>
+    </node>
+    <node id="/m/04y5j64">
+      <data key="d0">Six Degrees of Separation</data>
+    </node>
+    <node id="/m/02b25y">
+      <data key="d0">Andrea Bocelli</data>
+    </node>
+    <node id="/m/0k4gf">
+      <data key="d0">Felix Mendelssohn-Bartholdy</data>
+    </node>
+    <node id="/m/0ggq0m">
+      <data key="d0">Classical music</data>
+    </node>
+    <node id="/m/0qmjd">
+      <data key="d0">The Verdict</data>
+    </node>
+    <edge source="/m/07s9rl0" target="/m/0267wwv">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03hp2y1">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/042y1c">
+      <data key="d1">/film/film/genre</data>
+      <data key="d2">Film's genre</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04q827">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/04y5j64">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0qmjd">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/03m5y9p">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/07s9rl0" target="/m/0cmc26r">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/03hp2y1" target="/m/0ggq0m">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01vvy" target="/m/0ggq0m">
+      <data key="d1">/music/genre/artists</data>
+      <data key="d2">Music's artists</data>
+    </edge>
+    <edge source="/m/0267wwv" target="/m/0ggq0m">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/01gg59" target="/m/0ggq0m">
+      <data key="d1">/music/genre/artists</data>
+      <data key="d2">Music's artists</data>
+    </edge>
+    <edge source="/m/042y1c" target="/m/0ggq0m">
+      <data key="d1">/media_common/netflix_genre/titles</data>
+      <data key="d2">Media's titles</data>
+    </edge>
+    <edge source="/m/02b25y" target="/m/0ggq0m">
+      <data key="d1">/music/genre/artists</data>
+      <data key="d2">Music's artists</data>
+    </edge>
+    <edge source="/m/0k4gf" target="/m/0ggq0m">
+      <data key="d1">/music/genre/artists</data>
+      <data key="d2">Music's artists</data>
+    </edge>
+  </graph>
+</graphml>

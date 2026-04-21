@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/04bbv7">
+      <data key="d0">Johnny Yong Bosch</data>
+    </node>
+    <node id="/m/017dcd">
+      <data key="d0">Mighty Morphin Power Rangers</data>
+    </node>
+    <node id="/m/06v8s0">
+      <data key="d0">Wendee Lee</data>
+    </node>
+    <node id="/m/09c7w0">
+      <data key="d0">United States of America</data>
+    </node>
+    <node id="/m/0f1vrl">
+      <data key="d0">Haim Saban</data>
+    </node>
+    <node id="/m/01htzx">
+      <data key="d0">Action</data>
+    </node>
+    <node id="/m/02h40lc">
+      <data key="d0">English Language</data>
+    </node>
+    <node id="/m/04ztj">
+      <data key="d0">Marriage</data>
+    </node>
+    <node id="/m/03_r3">
+      <data key="d0">Jamaica</data>
+    </node>
+    <node id="/m/0rqf1">
+      <data key="d0">Palm Beach</data>
+    </node>
+    <node id="/m/02mf7">
+      <data key="d0">Eugene</data>
+    </node>
+    <node id="/m/0d9jr">
+      <data key="d0">Seattle</data>
+    </node>
+    <node id="/m/0g1w5">
+      <data key="d0">Lower Hutt</data>
+    </node>
+    <edge source="/m/04bbv7" target="/m/04ztj">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/04bbv7" target="/m/017dcd">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/09c7w0">
+      <data key="d1">/tv/tv_program/country_of_origin</data>
+      <data key="d2">TV's country of origin</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/0f1vrl">
+      <data key="d1">/tv/tv_producer/programs_produced./tv/tv_producer_term/program</data>
+      <data key="d2">TV's programs produced.</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/01htzx">
+      <data key="d1">/tv/tv_program/genre</data>
+      <data key="d2">TV's genre</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/02h40lc">
+      <data key="d1">/tv/tv_program/languages</data>
+      <data key="d2">TV's languages</data>
+    </edge>
+    <edge source="/m/017dcd" target="/m/06v8s0">
+      <data key="d1">/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor</data>
+      <data key="d2">TV's regular cast.</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/09c7w0">
+      <data key="d1">/dataworld/gardening_hint/split_to</data>
+      <data key="d2">Dataworld's split to</data>
+    </edge>
+    <edge source="/m/09c7w0" target="/m/04ztj">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/0f1vrl" target="/m/04ztj">
+      <data key="d1">/people/person/spouse_s./people/marriage/type_of_union</data>
+      <data key="d2">Person's spouse s.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/03_r3">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/0d9jr">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/02mf7">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/0rqf1">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+    <edge source="/m/04ztj" target="/m/0g1w5">
+      <data key="d1">/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony</data>
+      <data key="d2">Person's unions of this type.</data>
+    </edge>
+  </graph>
+</graphml>

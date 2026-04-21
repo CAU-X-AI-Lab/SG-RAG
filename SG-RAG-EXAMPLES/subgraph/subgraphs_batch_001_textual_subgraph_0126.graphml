@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="description" attr.type="string" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="/m/09w1n">
+      <data key="d0">Alpine skiing</data>
+    </node>
+    <node id="/m/027rn">
+      <data key="d0">Dominican Republic</data>
+    </node>
+    <node id="/m/015pkt">
+      <data key="d0">1960 Winter Olympics</data>
+    </node>
+    <node id="/m/02lpp7">
+      <data key="d0">Gold medal</data>
+    </node>
+    <node id="/m/09_9n">
+      <data key="d0">Ski jumping</data>
+    </node>
+    <node id="/m/01z27">
+      <data key="d0">Cross-country skiing</data>
+    </node>
+    <node id="/m/06sks6">
+      <data key="d0">2012 Summer Olympics</data>
+    </node>
+    <node id="/m/02lq67">
+      <data key="d0">Bronze medal</data>
+    </node>
+    <node id="/m/06cx9">
+      <data key="d0">Republic</data>
+    </node>
+    <node id="/m/02lq5w">
+      <data key="d0">Silver medal</data>
+    </node>
+    <node id="/m/0l6ny">
+      <data key="d0">1984 Summer Olympics</data>
+    </node>
+    <edge source="/m/09w1n" target="/m/015pkt">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lq67">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lq5w">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/02lpp7">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06cx9">
+      <data key="d1">/location/country/form_of_government</data>
+      <data key="d2">The country related to country</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/0l6ny">
+      <data key="d1">/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics</data>
+      <data key="d2">Olympics's medals won.</data>
+    </edge>
+    <edge source="/m/027rn" target="/m/06sks6">
+      <data key="d1">/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics</data>
+      <data key="d2">Olympics's athletes.</data>
+    </edge>
+    <edge source="/m/015pkt" target="/m/02lpp7">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/015pkt" target="/m/02lq67">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/015pkt" target="/m/02lq5w">
+      <data key="d1">/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal</data>
+      <data key="d2">Olympics's medals awarded.</data>
+    </edge>
+    <edge source="/m/015pkt" target="/m/01z27">
+      <data key="d1">/olympics/olympic_games/sports</data>
+      <data key="d2">Sports' sports</data>
+    </edge>
+    <edge source="/m/015pkt" target="/m/09_9n">
+      <data key="d1">/user/jg/default_domain/olympic_games/sports</data>
+      <data key="d2">Sports' default domain</data>
+    </edge>
+  </graph>
+</graphml>
